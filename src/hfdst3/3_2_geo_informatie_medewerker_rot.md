@@ -1,4 +1,4 @@
-## 3.2 GeoInformatie medewerker ROT
+## 3.2 Functieprofiel van de GeoInformatie medewerker ROT
 
 *(Tevens regie voerende GeoInformatie medewerker)*
 
@@ -115,4 +115,4 @@ De GeoInformatie medewerker ROT is in staat om op adequate wijze af te stemmen m
 1. Gebruikt kennis van en inzicht in de mogelijkheden en bevoegdheden van de geo-informatie verantwoordelijke van de meldkamer, het CoPI en andere relevante organisaties en betrokkenen ten behoeve van regievoering over het geo-informatie beeld.
 
 -----
-[^7] Opleidingskader GeoInformatie medewerker ROT 2015.07.
+[^7]: Opleidingskader GeoInformatie medewerker ROT 2015.07.
