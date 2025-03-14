@@ -1,16 +1,13 @@
-## 3.1 Functieprofielen van de GeoInformatie medewerker CoPI
+## 3.1 Functieprofiel van de GeoInformatie medewerker CoPI
+### Titel functie
 
-### Functieprofiel GeoInformatie medewerker CoPI
+GeoInformatie medewerker CoPI[^6]
 
-#### Titel functie
-
-GeoInformatie medewerker CoPI [^6]
-
-#### Doelgroep
+### Doelgroep
 
 Functionarissen die zorgdragen dat uit alle beschikbare eo-informatie de relevante geo-informatie toegankelijk en helder wordt ontsloten t.b.v. de IM CoPI en het operationeel besluitvormingsproces.
 
-#### Vereist beginniveau
+### Vereist beginniveau
 
 - Beschikt over de volgende competenties:
   - informatie verwerven en verwerken;
@@ -27,11 +24,11 @@ Functionarissen die zorgdragen dat uit alle beschikbare eo-informatie de relevan
 - Is beschikbaar en reageert conform de regionale afspraken bij alarmering;
 - Basisscholing Crisisbeheersing (e-learning module of cursus BCR).
 
-#### Context
+### Context
 
 De GeoInformatie medewerker CoPI is lid van het CoPI. Hij draagt zorg voor het proces van geo-informatie voorziening en -verwerking. Hij draagt met geo-informatie bij (binnen de context van het CoPI) aan het totaalbeeld door er voor te zorgen dat essentiële geo-informatie op de juiste tijd in de juiste kwaliteit en vorm verzameld, veredeld, gedeeld en ontsloten wordt en draagt op deze wijze bij aan effectieve besluitvorming.
 
-#### Positionering
+### Positionering
 
 De GeoInformatie medewerker CoPI ontvangt leiding en legt verantwoording af aan de IM CoPI; Acteert op hetzelfde niveau als de overige CoPI leden; De GeoInformatie medewerker CoPI is verantwoordelijk voor de uitvoering van het geo-informatie proces; De GeoInformatie medewerker CoPI stemt de samenwerking af met:
 
@@ -39,7 +36,7 @@ De GeoInformatie medewerker CoPI ontvangt leiding en legt verantwoording af aan 
 - de Meldkamer;
 - de GeoInformatie medewerker ROT (vanaf GRIP 2).
 
-#### Werkpatroon
+### Werkpatroon
 
 Het werkpatroon geeft een beeld van de werkzaamheden die de GeoInformatie medewerker CoPI uitvoert. De werkzaamheden kennen geen vaststaand opvolgend patroon maar kunnen door elkaar en continu opnieuw plaatsvinden.
 1. Geo-informatie verwerven en verwerken (verzamelen en ordenen).
@@ -47,17 +44,17 @@ Het werkpatroon geeft een beeld van de werkzaamheden die de GeoInformatie medewe
 3. Geo-informatie verstrekken (ontsluiten en delen).
 4. Afstemmen met en adviseren aan IM CoPI.
 
-#### Kerntaken
+### Kerntaken
 
 De essentiële werkzaamheden van de GeoInformatie medewerker CoPI kunnen worden samengevat in de volgende kerntaak:
 > Zorgdragen dat uit alle beschikbare geo-informatie de relevante geo-informatie toegankelijk en helder wordt ontsloten.
 
-#### Competenties (incl. gedragsindicatoren)
+### Competenties (incl. gedragsindicatoren)
 
 Voor een goede uitvoering van de taken zijn onderstaande competenties met
 bijbehorende gedragsindicatoren van belang.
 
-##### Competentie 1: Informatie verwerven en verwerken
+#### Competentie 1: Informatie verwerven en verwerken
 
 De GeoInformatie medewerker CoPI is in staat om op adequate wijze de benodigde
 informatie ten behoeve van het totaalbeeld te verwerven en te verwerken.
@@ -70,7 +67,7 @@ informatie ten behoeve van het totaalbeeld te verwerven en te verwerken.
 4. Selecteert, combineert, ordent, produceert en vertaalt  ongestructureerde geo-informatie naar een samenhangend en bruikbaar beeld.
 5. Bewaakt de validiteit en betrouwbaarheid van geo-informatie.
 
-##### Competentie 2: Informatie interpreteren
+#### Competentie 2: Informatie interpreteren
 De GeoInformatie medewerker CoPI is in staat om op adequate wijze de benodigde
 geo-informatie ten behoeve van het totaalbeeld te interpreteren.
 
@@ -78,7 +75,7 @@ geo-informatie ten behoeve van het totaalbeeld te interpreteren.
 1. Interpreteert relevante geo-informatie snel en grondig.
 2. Scheidt hoofd- en bijzaken efficiënt.
 
-##### Competentie 3: Informatie verstrekken
+#### Competentie 3: Informatie verstrekken
 
 De GeoInformatie medewerker CoPI is in staat om op adequate wijze de benodigde
 geo-informatie ten behoeve van het totaalbeeld te ontsluiten en te delen.
@@ -88,7 +85,7 @@ geo-informatie ten behoeve van het totaalbeeld te ontsluiten en te delen.
 1. Stelt helder en beknopt een geografisch beeld samen.
 2. Heeft inzicht in de informatiebehoefte van verschillende partners.
 
-##### Competentie 4: Afstemmen met en adviseren aan IM CoPI
+#### Competentie 4: Afstemmen met en adviseren aan IM CoPI
 
 De GeoInformatie medewerker CoPI is in staat om op adequate wijze af te stemmen met
 en te adviseren aan IM CoPI.
