@@ -10,3 +10,5 @@ In de map `src` zijn de hoofdstukken opgeslagen. De hoofdstukken zijn opgeslagen
 
 De hoofdstukken zijn opgeslagen in de map `hfdst1` tot en met `hfdst3`. Per map is er een submap genaamd images waarin de afbeeldingen voor het betreffende hoofdstuk zich bevinden.
 
+Dit is een **werkomgeving** en dient dus niet gebruikt te worden voor publicatie. Publicatie van het handboek PLOT wordt gecoordineerd door het [NIPV](https://www.nipv.nl/).
+
