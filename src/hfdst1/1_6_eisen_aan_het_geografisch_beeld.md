@@ -1,4 +1,4 @@
-## 1.6 Eisen aan het geografisch beeld
+## 1.6 Eisen aan het geografisch beeld{.secondary}
 
 In het Besluit Veiligheidsregio’s (artikel 2.4.1. lid 2) wordt gesproken over de minimale
 inhoud van een totaalbeeld en daarmee indirect ook van een geografisch beeld. Een

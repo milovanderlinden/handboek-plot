@@ -1,10 +1,10 @@
-## 3.4 Verschillende soorten kaartlagen
+## 3.4 Verschillende soorten kaartlagen{.secondary}
 
 Binnen LCMS-Plot kunnen diverse soorten type kaarten worden gebruikt voor het visualiseren van de plot. De informatie die beschikbaar komt in LCMS en via de landelijke geoserver is zeer dynamisch. Voor een volledig overzicht wordt verwezen naar de website van de geoserver: [http://www.geo4oov.nl.](http://www.geo4oov.nl.)
 
 Hieronder is een korte handleiding voor het importeren van de beschikbare kaartlagen uit geo4oov.nl en de kaartlagen van externe partijen. 
 
-### Importeren van de standaard beschikbare WMS lagen
+### Importeren van de standaard beschikbare WMS lagen{.secondary}
 
 ![Importeren van de standaard beschikbare WMS lagen](images/13.jpg)
 Klik op het ‘potloodje’.
@@ -23,7 +23,7 @@ Bijvoorbeeld de kadastrale kaart. Vink vervolgens de gewenste kaartlaag aan.
 
 De gewenste laag verschijnt in de tab ‘Geolaag’.
 
-### Een WM(T)S laag van een externe partij importeren
+### Een WM(T)S laag van een externe partij importeren{.secondary}
 
 ![Klik op het Instellingen](images/18.jpg)
 

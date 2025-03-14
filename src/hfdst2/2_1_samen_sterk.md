@@ -1,6 +1,6 @@
-## 2.1 Samen sterk!
+## 2.1 Samen sterk!{.secondary}
 
-### Hoe werken we binnen het netwerk met elkaar samen?
+### Hoe werken we binnen het netwerk met elkaar samen?{.secondary}
 
 Zoals beschreven in het referentiekader netcentrische crisisbeheersing bestaat een actueel
 gedeeld beeld uit een tekstuele beschrijving, een geografisch beeld en een mondelinge
@@ -17,7 +17,7 @@ Door de kaartlagen te combineren ontstaat er een geografisch totaalbeeld. Het to
 ### Situatiebeeld
 Het situatiebeeld is net als bij het tekstuele beeld een samenvatting van het totaalbeeld. Het situatiebeeld geeft in één oogopslag de relevante geografische componenten van de feitelijkheden van dat moment.
 
-### Aandacht voor multi- en monodisciplinair
+### Aandacht voor multi- en monodisciplinair{.secondary}
 Multidisciplinair, monodisciplinair en crisispartners leveren geografische gegevens aan
 zoals:
 - locatie incident;
@@ -42,7 +42,7 @@ Via standaarden is het mogelijk om geografische informatie met elkaar te combine
 
 Informatiemanagement is verantwoordelijk voor het ontvangen en ontsluiten van geografische gegevens. Daarnaast genereren de multidisciplinaire gremia ook geografische informatie, zoals het brongebied en het effectgebied, die relevant is voor de monodisciplinaire partijen.
 
-### Inhoudelijke analyse en delen van geografische informatie
+### Inhoudelijke analyse en delen van geografische informatie{.secondary}
 De informatieorganisatie is verantwoordelijk voor het proces **delen en laten stromen van informatie**. Het geografisch beeld maakt daar onderdeel van uit, want door de incidentlocatie zichtbaar te maken voor alle betrokken partijen draag je bij aan dit itgangspunt.
 
 Naast het laten stromen van informatie zijn er inhoudelijk deskundigen die een **analyse** kunnen maken vanuit het monodisciplinaire proces. Een adviseur gevaarlijke stoffen berekent op basis van zijn inhoudelijke kennis een effectgebied wat geografisch omgezet

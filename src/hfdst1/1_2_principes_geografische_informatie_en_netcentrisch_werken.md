@@ -1,4 +1,4 @@
-## 1.2 Principes geografische informatie en netcentrisch werken
+## 1.2 Principes geografische informatie en netcentrisch werken{.secondary}
 
 Het spreekwoord “één plaatje zegt meer dan 1000 woorden” geeft aan waarom naast een
 tekstbeeld ook een __geografisch beeld__ gewenst is tijdens een incident. Deze behoefte

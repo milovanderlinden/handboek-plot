@@ -1,7 +1,6 @@
 ![IFV Logo](images/1.png)
 
-# Handboek Plot {.blue}
-
-__Versie 1.1, 3 0 november 2016__
+# Handboek Plot {.primary}
+##### Versie 1.1, 30 november 2016 {.primary}
 
 ![Gasmal voorbeeld](images/2.jpg)

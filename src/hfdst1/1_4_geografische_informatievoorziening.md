@@ -1,4 +1,4 @@
-## 1.4 Geografische Informatievoorziening
+## 1.4 Geografische Informatievoorziening{.secondary}
 
 Voor het werken met geografische informatie en het kunnen ontsluiten van __preparatieve
 gegevens__ is geografische informatievoorziening noodzakelijk. Een onderdeel daarvan is de

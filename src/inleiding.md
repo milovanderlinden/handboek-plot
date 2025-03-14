@@ -28,7 +28,7 @@ De volgende operationele bijlagen zijn opgenomen:
 - Het werken met kaartlagen;
 - Stamkaart plot.
 
-### Doelgroep handboek plot
+### Doelgroep handboek plot{.secondary}
 
 Het oogmerk van het handboek plot is om te komen tot een landelijk vastgestelde visie en
 werkwijze voor het geografische beeld in LCMS. De doelgroep van dit handboek zijn alle

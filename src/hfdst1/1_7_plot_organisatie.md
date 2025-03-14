@@ -1,4 +1,4 @@
-## 1.7 Plot organisatie
+## 1.7 Plot organisatie{.secondary}
 
 Binnen de crisisorganisatie kennen we verschillende rollen voor het opleveren van een
 geografisch beeld, namelijk:

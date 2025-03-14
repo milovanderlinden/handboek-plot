@@ -1,6 +1,6 @@
-## 3.3 Preparatieve geografische informatie
+## 3.3 Preparatieve geografische informatie{.secondary}
 
-### Preparatie informatie in LCMS
+### Preparatie informatie in LCMS{.secondary}
 
 #### C- Evenementen[^8]
 *Versie 0.1 14 november 2014*
@@ -49,9 +49,10 @@ informatie kan wel via de LCMS- Informatie-knop beschikbaar worden gesteld.
 ##### Preparatie versus de feitelijkheid
 De informatie die in LCMS is ingebracht komt voort uit de plannen die in de preparatiefase zijn opgesteld. Bij een reëel incident is het daarom van belang om preparatie informatie te verwijderen indien deze niet meer strookt met de werkelijkheid om vervuiling van de beeldvorming te voorkomen.
 
-#### Preparatie in LCMS plot
+#### Preparatie in LCMS plot{.secondary}
 
-Kaartlagen keuze Om de Evenement- preparatiegegevens op effectieve wijze in het plot te plaatsen bestaat het plot uit meerdere kaartlagen, oleaten genoemd, die naar behoefte aan of uitgezet kunnen worden.
+##### Kaartlagen keuze 
+Om de Evenement- preparatiegegevens op effectieve wijze in het plot te plaatsen bestaat het plot uit meerdere kaartlagen, oleaten genoemd, die naar behoefte aan of uitgezet kunnen worden.
 
 De preparatie oleaat wordt aangebracht boven de functielagen. De  preparatie oleaat kent een aantal sub lagen. De standaard sub lagen zijn:
 
@@ -117,7 +118,7 @@ De verkeersroute wordt aangegeven met een zwarte stippellijn 1 mm, eventueel voo
 
 ![Verkeersmanagement](images/12.jpg)
 
-### Advies en ondersteuning
+### Advies en ondersteuning{.secondary}
 Voor advies en ondersteuning bij het samenstellen van preparatie informatie in LCMS kunt u terecht bij XXXXX (in te vullen door de regio).
 
 ----------

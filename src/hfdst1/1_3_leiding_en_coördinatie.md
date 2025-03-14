@@ -1,4 +1,4 @@
-## 1.3 Leiding en coördinatie
+## 1.3 Leiding en coördinatie{.secondary}
 
 Het proces informatiemanagement is ondersteunend aan het proces leiding en coördinatie.
 Binnen het proces informatiemanagement is het bijhouden van het geografisch beeld belegd
@@ -12,7 +12,7 @@ Het proces leiding en coördinatie maakt veelal gebruik van een structuur die be
 Beeld- Oordeels- en Besluitvorming. Geografische informatie kan op al deze drie onderdelen
 ondersteuning bieden.
 
-### Beeldvorming
+### Beeldvorming{.secondary}
 
 Bij beeldvorming kan door een geografisch beeld de feitelijke situatie worden getoond.
 Welke geografische componenten worden weergegeven kan door de gebruiker zelf worden
@@ -20,7 +20,7 @@ bepaald door kaartlagen al dan niet te selecteren. Vragen zoals, waar is het inc
 staat het CoPI en welke gebieden worden bedreigt, kunnen met behulp van dit beeld
 gemakkelijk worden beantwoord.
 
-### Oordeelsvorming
+### Oordeelsvorming{.secondary}
 Bij oordeelsvorming wordt er gekeken naar de __knelpunten__ waar de crisisorganisatie
 vervolgens mee te maken heeft. Ook dit onderdeel kent geografische aspecten, zoals welke
 vitale voorzieningen – gezien de geografie – worden bedreigd. Om geografische antwoorden
@@ -38,7 +38,7 @@ Bij een verwachte draaiing van de wind kun je weergeven wat het verwachte effect
 gaat worden door deze mal te plaatsen met een tijdstip wanneer verwacht wordt dat het
 effectgebied zich verplaatst.
 
-### Besluitvorming
+### Besluitvorming{.secondary}
 
 De besluiten die worden genomen, en de hieruit voortvloeiende acties, kunnen vaak deels
 geografisch worden vertaald. Het besluit om een loodspost te gebruiken kan bijvoorbeeld in

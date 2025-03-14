@@ -1,4 +1,4 @@
-## 1.5 Visualisatie
+## 1.5 Visualisatie{.secondary}
 
 Voor de visualisatie van het geografisch en het tekstbeeld is een referentiedocument
 opgesteld **‘Crisismanagementsysteem Visualisatie Principes 2014-01-20’**[^4]. Hierin staan

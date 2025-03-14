@@ -1,4 +1,4 @@
-## 2.2 Informatieproducten
+## 2.2 Informatieproducten{.secondary}
 
 Een goede ordening van het situatiebeeld is bepalend voor de leesbaarheid. Geografische beelden hebben het voordeel dat ze naar hun aard al goed toegankelijk zijn. Door daarnaast de relevante onderwerpen te kiezen en deze uit te lichten in de vorm van (multidisciplinaire)
 thema’s kan bovendien de aandacht gevestigd worden op deze onderwerpen. De keuze van deze thema’s – in nauwe afstemming tussen  informatiemanagement en leiding & coördinatie - geeft al een vorm van sturing.
@@ -6,7 +6,7 @@ thema’s kan bovendien de aandacht gevestigd worden op deze onderwerpen. De keu
 In onderstaand tabel zijn een aantal geografisch gerelateerde thema’s opgesomd. Hierbij is tevens aangegeven hoe het eigenaarschap van deze thema’s is belegd. Vervolgens is ook een indicatie gegeven welke gebruikersgroepen standaard in deze informatie geïnteresseerd
 zijn. Vanzelfsprekend heeft iedereen binnen de organisatie desgewenst toegang tot de informatie.
 
-### Indeling tabel
+### Indeling tabel{.secondary}
 
 | Plot | Gegevens | Nader | Algemeen/specifiek | Bijzonderheden |
 |------|----------|--------|--------------------|----------------|
@@ -14,7 +14,7 @@ zijn. Vanzelfsprekend heeft iedereen binnen de organisatie desgewenst toegang to
 
 Onderstaand de weergave van de minimale info in kaartlaag per gremium.
 
-### Meldkamer
+### Meldkamer{.secondary}
 | Plot | Gegevens | Nader | Algemeen/specifiek | Bijzonderheden |
 |------|----------|--------|--------------------|----------------|
 | 1 | Incidentlocatie | Exacte locatie | Algemeen | Zoomniveau 150.0X |
@@ -24,7 +24,7 @@ Onderstaand de weergave van de minimale info in kaartlaag per gremium.
 | 5 | Tekstvak klachtenplot | Aangeven algemene inhoud van de meldingen/klachten | Algemeen | |
 | 6 | Info | Preparatie | Specifiek | (schadecirkels bij BLEVE enz.) |
 
-### CoPI
+### CoPI{.secondary}
 
 | Plot | Gegevens | Nader | Algemeen/specifiek | Bijzonderheden |
 |------|----------|--------|--------------------|----------------|
@@ -41,7 +41,7 @@ Onderstaand de weergave van de minimale info in kaartlaag per gremium.
 | 11 | “Tijdelijke“ opvang | Specificatie: Aantal SO Verwonde pers etc. GWN GHOR | Algemeen | |
 | 12 | Thema / proces specifiek | | Specifiek | RBP’s, Ramptypes |
 
-### ROT
+### ROT{.secondary}
 
 | Plot | Gegevens | Nader | Algemeen/specifiek | Bijzonderheden |
 |------|----------|--------|--------------------|----------------|
@@ -56,7 +56,7 @@ Onderstaand de weergave van de minimale info in kaartlaag per gremium.
 | 9 | Thema specifiek | | Specifiek | | 
 
 
-### NCC / LOCC - GRIP RIJK
+### NCC / LOCC - GRIP RIJK{.secondary}
 | Plot | Gegevens | Nader | Algemeen/specifiek | Bijzonderheden |
 |------|----------|--------|--------------------|----------------|
 | 1 | Capaciteitsplot | Grootschalig optreden | Specifiek | |

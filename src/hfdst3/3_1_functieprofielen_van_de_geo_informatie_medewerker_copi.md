@@ -1,4 +1,4 @@
-## 3.1 Functieprofiel van de GeoInformatie medewerker CoPI
+## 3.1 Functieprofiel van de GeoInformatie medewerker CoPI{.secondary}
 ### Titel functie
 
 GeoInformatie medewerker CoPI[^6]

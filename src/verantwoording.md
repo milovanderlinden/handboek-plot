@@ -12,7 +12,7 @@ info@ifv.nl
 
 026 355 24 00
 
-## Colofon
+## Colofon{.black}
 
 Dit handboek is vastgesteld door de regiegroep Netcentrisch Werken van het
 Veiligheidsberaad. Dit handboek is tot stand gekomen door een samenwerking tussen de
@@ -25,7 +25,7 @@ geen enkele aansprakelijkheid die zou kunnen voortvloeien uit de inhoud van deze
 
 Overname van informatie uit deze publicatie is toegestaan, mits met bronvermelding.
 
-### Versiebeheer
+### Versiebeheer{.black}
 
 | Datum | Versie | Inhoud | Auteur(s) |
 |-------|--------|--------|--------|
@@ -39,7 +39,7 @@ Overname van informatie uit deze publicatie is toegestaan, mits met bronvermeldi
 | 14 januari 2016 | 1.1 | Negende versie, input van veiligheidsregio’s | Werkgroep plot |
 | 30 november 2016 | 1.1 | Definitieve versie, opgemaakt en ter goedkeuring aangeboden aan de regiegroep | Erik van Borkulo/Anton Aerts |
 
-### Distributie
+### Distributie{.black}
 
 | Datum | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 | 1.0 | 1.1 |
 |-------|-----|-----|-----|-----|-----|-----|-----|-----|

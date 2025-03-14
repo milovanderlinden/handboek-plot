@@ -1,12 +1,10 @@
-# Inhoudsopgave
-
 [Voorblad](./voorblad.md)
 
 [Colofon](./verantwoording.md)
 
 [Inleiding](./inleiding.md)
 
-# Hoofdstukken
+# Inhoud
 
 - [Visie en doel van geo-informatie](./hfdst1/index.md)
   - [Geografie](./hfdst1/1_1_geografie.md)

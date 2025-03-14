@@ -1,4 +1,4 @@
-## 1.1 Geografie
+## 1.1 Geografie{.secondary}
 
 De meeste aspecten van een ramp of crisis hebben een
 geografische component: waar is de ramp of crisis, waar
