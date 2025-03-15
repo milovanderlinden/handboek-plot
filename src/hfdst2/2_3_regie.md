@@ -25,6 +25,6 @@ Informatiemanager wordt beschouwd als onderdeel van de sectie informatiemanageme
 
 Het toebedelen van de bepaalde bevoegdheid is wel gekoppeld aan de competentie van de betreffende functionaris. Onderlinge uitwisselbaarheid tussen veiligheidsregio’s wordt hiermee geborgd.
 
-In de bijlage zijn de functieprofielen van de geo-informatie medewerker CoPI en geo-informatie medewerker ROT opgenomen. Bij gebrek aan een landelijk vastgesteld kwalificatie dossier voor de geo-informatie medewerker is uitgegaan van de opleiding voor geo-informatie medewerker die wordt gegeven door het IFV.
+In de bijlage zijn de functieprofielen van de geo-informatie medewerker CoPI en geo-informatie medewerker ROT opgenomen. Bij gebrek aan een landelijk vastgesteld kwalificatie dossier voor de geo-informatie medewerker is uitgegaan van de opleiding voor geo-informatie medewerker die wordt gegeven door het NIPV.
 
 Er is geen functieprofiel van de monodisciplinaire geo-informatie medewerker opgenomen omdat zijn/ haar competenties afhankelijk zijn van de eigen organisatie.

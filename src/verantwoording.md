@@ -1,4 +1,4 @@
-Instituut Fysieke Veiligheid
+NIPV locatie Arnhem
 
 Postbus 7010
 
@@ -6,18 +6,17 @@ Postbus 7010
 
 Kemperbergerweg 783, Arnhem
 
-[http://www.ifv.nl](http://www.ifv.nl)
+[https://nipv.nl/](https://nipv.nl/)
 
-info@ifv.nl
+info@nipv.nl
 
-026 355 24 00
+088 274 74 00
 
 ## Colofon{.black}
 
 Dit handboek is vastgesteld door de regiegroep Netcentrisch Werken van het
 Veiligheidsberaad. Dit handboek is tot stand gekomen door een samenwerking tussen de
-veiligheidsregio’s in Nederland en het NCC en LOCC, ondersteund door het Instituut Fysieke
-Veiligheid.
+veiligheidsregio’s in Nederland en het NCC en LOCC, ondersteund door het Nederlands Instituut Publieke Veiligheid.
 
 De samenstellers hebben de grootst mogelijke zorg aan de inhoud van deze uitgave besteed.
 Aan de inhoud kunnen echter geen rechten worden ontleend en de samenstellers aanvaarden
