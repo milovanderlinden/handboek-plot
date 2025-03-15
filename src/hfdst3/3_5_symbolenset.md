@@ -5,78 +5,78 @@ standaard van IMOOV is bijzonder uitgebreid, maar volgens de werkgroep plot echt
 
 | Symbool klein | Symbool groot | Omschrijving |
 | --- | --- | --- |
-| ![](images/29.png)| ![](images/30.png)| Verkeer en vervoer: lucht, water, land
-| ![](images/29.png)| ![](images/31.png)|Gevaarlijke stoffen: brandbaar, explosief, gif, nucleair
-| ![](images/29.png)| ![](images/32.png)|Volksgezondheid: gezondheidsdreiging, ziektegolf
-| ![](images/29.png)| ![](images/33.png)|Infrastructuur: tunnels, brand, instorting, uitval
-| ![](images/29.png)| ![](images/34.png)|Bevolking: paniek, ordeverstoring
-| ![](images/29.png)| ![](images/35.png)|Natuur: overstroming, natuurbrand, extreem weer
-| ![](images/36.png)| ![](images/36.png)|Brongebied
-| ![](images/38.png)| ![](images/38.png)|Effectgebied, huidige situatie
-| ![](images/40.png)| ![](images/40.png)|Effectgebied, prognose
-| ![](images/41.png)| ![](images/42.png)|Beknelde personen
+| ![Roze ster met gele rand](images/29.png)| ![](images/30.png)| Verkeer en vervoer: lucht, water, land
+![Roze ster met gele rand](images/29.png)| ![](images/31.png)|Gevaarlijke stoffen: brandbaar, explosief, gif, nucleair
+![Roze ster met gele rand](images/29.png)| ![](images/32.png)|Volksgezondheid: gezondheidsdreiging, ziektegolf
+![Roze ster met gele rand](images/29.png)| ![](images/33.png)|Infrastructuur: tunnels, brand, instorting, uitval
+![Roze ster met gele rand](images/29.png)| ![](images/34.png)|Bevolking: paniek, ordeverstoring
+![Roze ster met gele rand](images/29.png)| ![](images/35.png)|Natuur: overstroming, natuurbrand, extreem weer
+| ![Grijze ellips met zwarte rand](images/36.png)| ![](images/36.png)|Brongebied
+| ![Blauwe ellips met zwarte rand](images/38.png)| ![](images/38.png)|Effectgebied, huidige situatie
+| ![Ellips met blauwe stippen rand](images/40.png)| ![](images/40.png)|Effectgebied, prognose
+| ![Rood vierkant met zwarte rand](images/41.png)| ![](images/42.png)|Beknelde personen
 
 
 
 | Symbool klein | Symbool groot | Omschrijving |
 | --- | --- | --- |
-| ![](images/43.png)| ![](images/44.png)| ![](images/45.png)<br> Aantal gewonden en doden _(rode getallen interactief toevoegen)_ 
-| ![](images/41.png)| ![](images/46.png)| Risicovol object
-| ![](images/47.png)| ![](images/48.png)| LPG
-| ![](images/49.png)| ![](images/50.png)| Opslag gevaarlijke stoffen
-| ![](images/49.png)| ![](images/51.png)| Ammoniak
-| ![](images/49.png)| ![](images/52.png)| Emplacement
-| ![](images/49.png)| ![](images/53.png)| Vervoer gevaarlijke stoffen
-| ![](images/54.png)| ![](images/55.png)| Vuurwerk
-| ![](images/56.png)| ![](images/57.png)| Nucleair
-| ![](images/49.png)| ![](images/58.png)| Ontplofbare stoffen
-| ![](images/41.png)| ![](images/59.png)| Defensie
-| ![](images/49.png)| ![](images/60.png)| Overige gevaarlijke stof
-| ![](images/41.png)| ![](images/61.png)| BRZO, Besluit Risico’s Zware Ongevallen
+| ![Mosterdgele rechthoek](images/43.png)| ![](images/44.png)| ![](images/45.png)<br> Aantal gewonden en doden _(rode getallen interactief toevoegen)_ 
+| ![Rood vierkant met zwarte rand](images/41.png)| ![](images/46.png)| Risicovol object
+| ![Rode piramide met zwarte rand](images/47.png)| ![](images/48.png)| LPG
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/50.png)| Opslag gevaarlijke stoffen
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/51.png)| Ammoniak
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/52.png)| Emplacement
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/53.png)| Vervoer gevaarlijke stoffen
+| ![Rode ster met zwarte rand](images/54.png)| ![](images/55.png)| Vuurwerk
+| ![Rood nucleair symbool met zwarte rand](images/56.png)| ![](images/57.png)| Nucleair
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/58.png)| Ontplofbare stoffen
+| ![Rood vierkant met zwarte rand](images/41.png)| ![](images/59.png)| Defensie
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/60.png)| Overige gevaarlijke stof
+| ![Rood vierkant met zwarte rand](images/41.png)| ![](images/61.png)| BRZO, Besluit Risico’s Zware Ongevallen
 
 | Symbool klein | Symbool groot | Omschrijving |
 | --- | --- | --- |
-| ![](images/41.png)| ![](images/61.png)| Pijpleidingen (deels geheim!)
-| ![](images/62.png)| ![](images/63.png)| Aandachts-locatie (geen adres)
-| ![](images/62.png)| ![](images/64.png)| Aandachts-adres
-| ![](images/62.png)| ![](images/65.png)| Voormalig Aandachts-adres (dit is bijvoorbeeld al ontruimd)
-| ![](images/66.png)| ![](images/67.png)| Nutsvoorziening bijvoorbeeld geknapte hoogspanningskabel
-| ![](images/66.png)| ![](images/68.png)| Winkel
-| ![](images/69.png)| ![](images/70.png)| Zorginstelling incl. Ziekenhuis-dat-niet-meer-functioneert
-| ![](images/71.png)| ![](images/72.png)| Camping/bungalowpark
-| ![](images/66.png)| ![](images/73.png)| Object van maatschappelijk nut, bijvoorbeeld een museum
-| ![](images/66.png)| ![](images/74.png)| Object van economisch nut, bijvoorbeeld een bank
-| ![](images/75.png)| ![](images/76.png)| Openbaar gebouw
-| ![](images/77.png)| ![](images/78.png)| School of Kinderopvang
-| ![](images/71.png)| ![](images/79.png)| Hotel of Pension
+| ![Rood vierkant met zwarte rand](images/41.png)| ![](images/61.png)| Pijpleidingen (deels geheim!)
+| ![Groene ster met zwarte rand](images/62.png)| ![](images/63.png)| Aandachts-locatie (geen adres)
+| ![Groene ster met zwarte rand](images/62.png)| ![](images/64.png)| Aandachts-adres
+| ![Groene ster met zwarte rand](images/62.png)| ![](images/65.png)| Voormalig Aandachts-adres (dit is bijvoorbeeld al ontruimd)
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/67.png)| Nutsvoorziening bijvoorbeeld geknapte hoogspanningskabel
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/68.png)| Winkel
+| ![Groene driehoek punt omlaag met zwarte rand](images/69.png)| ![](images/70.png)| Zorginstelling incl. Ziekenhuis-dat-niet-meer-functioneert
+| ![Groene cirkel met zwarte rand](images/71.png)| ![](images/72.png)| Camping/bungalowpark
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/73.png)| Object van maatschappelijk nut, bijvoorbeeld een museum
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/74.png)| Object van economisch nut, bijvoorbeeld een bank
+| ![Groene ruit met zwarte rand](images/75.png)| ![](images/76.png)| Openbaar gebouw
+| ![Groene piramide met zwarte rand](images/77.png)| ![](images/78.png)| School of Kinderopvang
+| ![Groene cirkel met zwarte rand](images/71.png)| ![](images/79.png)| Hotel of Pension
 
 | Symbool klein | Symbool groot | Omschrijving |
 | --- | --- | --- |
-| ![](images/66.png)| ![](images/80.png)| Gemaal
-| ![](images/66.png)| ![](images/80.png)| Radarpost/Verkeersleiding
-| ![](images/81.png)| ![](images/81.png)| ![](images/82.png) <br>Aantal (gezonde) bewoners _(zwart getal interactief toevoegen)_
-| ![](images/83.png)| ![](images/84.png)| Ramptoeristen
-| ![](images/66.png)| ![](images/80.png)| Boerderij met veeteelt
-| ![](images/66.png)| ![](images/80.png)| Viskwekerij
-| ![](images/66.png)| ![](images/80.png)| Bedrijf met hobby-dieren _(zoals manege en hondenkennel)_
-| ![](images/86.png)| ![](images/87.png)| Verbrand of beschadigd gebouw
-| ![](images/86.png)| ![](images/88.png)| Verbrande natuur (bos en heide)
-| ![](images/89.png)| ![](images/90.png)| Algemeen
-| ![](images/89.png)| ![](images/91.png)| Gemeente
-| ![](images/89.png)| ![](images/92.png)| Brandweer
-| ![](images/89.png)| ![](images/93.png)| Politie
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/80.png)| Gemaal
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/80.png)| Radarpost/Verkeersleiding
+| ![Open cirkel met gele rand](images/81.png)| ![](images/81.png)| ![](images/82.png) <br>Aantal (gezonde) bewoners _(zwart getal interactief toevoegen)_
+| ![Oogjes klein](images/83.png)| ![Oogjes groot](images/84.png)| Ramptoeristen
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/80.png)| Boerderij met veeteelt
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/80.png)| Viskwekerij
+| ![Groen vierkant met zwarte rand](images/66.png)| ![](images/80.png)| Bedrijf met hobby-dieren _(zoals manege en hondenkennel)_
+| ![Grijs vierkant met zwarte rand](images/86.png)| ![](images/87.png)| Verbrand of beschadigd gebouw
+| ![Grijs vierkant met zwarte rand](images/86.png)| ![](images/88.png)| Verbrande natuur (bos en heide)
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/90.png)| Algemeen
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/91.png)| Gemeente
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/92.png)| Brandweer
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/93.png)| Politie
 
 
 | Symbool klein | Symbool groot | Omschrijving |
 | --- | --- | --- |
-| ![](images/89.png)| ![](images/94.png)|GHOR, Geneeskundig
-| ![](images/89.png)| ![](images/95.png)| Spoorwegen
-| ![](images/89.png)| ![](images/96.png)| Defensie
-| ![](images/89.png)| ![](images/97.png)| Waterschap
-| ![](images/89.png)| ![](images/98.png)| Provincie
-| ![](images/99.png)| ![](images/100.png)| Pand dat verzegeld is
-| ![](images/99.png)| ![](images/101.png)| Afgesloten weg
-| ![](images/102.png)| ![](images/103.png)| Sirene _(op vaste locatie)_
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/94.png)|GHOR, Geneeskundig
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/95.png)| Spoorwegen
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/96.png)| Defensie
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/97.png)| Waterschap
+| ![Liggende zandkleurige rechthoek met zwarte rand](images/89.png)| ![](images/98.png)| Provincie
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/100.png)| Pand dat verzegeld is
+| ![Rode cirkel met zwarte rand](images/49.png)| ![](images/101.png)| Afgesloten weg
+| ![Kleine witte cirkel met zwarte rand](images/102.png)| ![](images/103.png)| Sirene _(op vaste locatie)_
 | ![](images/104.png)| ![](images/105.png)| Gemeente Voertuig
 | ![](images/106.png)| ![](images/107.png)| Brandweer Voertuig
 | ![](images/106.png)| ![](images/108.png)| Brandweer Blusboot
