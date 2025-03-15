@@ -1,4 +1,4 @@
-![IFV Logo](images/1.png)
+![NIPV Logo](images/Logo-NIPV.jpg)
 
 # Handboek Plot {.primary}
 ##### Versie 1.1, 30 november 2016 {.primary}
