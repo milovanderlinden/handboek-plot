@@ -1,0 +1,38 @@
+h1 {
+    color: #024464;
+}
+
+h2 {
+    color: #ba1513;
+}
+
+h3 {
+    color: #ba1513;
+}
+
+.navbar {
+    background-color: #024464;
+}
+
+.wm-toc-li.wm-current,
+.wm-toc-li.wm-current:hover {
+    background-color: #024464;
+    color: white;
+}
+
+.wm-toctree a,
+.wm-toctree a:visited,
+.wm-toctree a:focus {
+    color: #000;
+    text-decoration: none;
+    outline: none;
+}
+
+.wm-toctree a:hover {
+    color: #ba1513;
+}
+
+.wm-toc-li:hover {
+    color: #ba1513;
+    background-color: transparent;
+}

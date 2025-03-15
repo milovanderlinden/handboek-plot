@@ -1,0 +1,38 @@
+# Handboek Plot
+
+[Voorblad](./handboek/voorblad.md)
+
+[Colofon](./handboek/verantwoording.md)
+
+[Inleiding](./handboek/inleiding.md)
+
+# Inhoud
+
+- [Visie en doel van geo-informatie](./handboek/hfdst1/index.md)
+  - [Geografie](./handboek/hfdst1/1_1_geografie.md)
+  - [Principes geografische informatie en netcentrisch werken](./handboek/hfdst1/1_2_principes_geografische_informatie_en_netcentrisch_werken.md)
+  - [Leiding en coördinatie](./handboek/hfdst1/1_3_leiding_en_coördinatie.md)
+  - [Geografische Informatievoorziening](./handboek/hfdst1/1_4_geografische_informatievoorziening.md)
+  - [Visualisatie](./handboek/hfdst1/1_5_visualisatie.md)
+  - [Eisen aan het geografisch beeld](./handboek/hfdst1/1_6_eisen_aan_het_geografisch_beeld.md)
+  - [Plot organisatie](./handboek/hfdst1/1_7_plot_organisatie.md)
+- [Werkwijze voor het delen van geo-informatie](./handboek/hfdst2/index.md)
+  - [Samen sterk!](./handboek/hfdst2/2_1_samen_sterk.md)
+  - [Informatieproducten](./handboek/hfdst2/2_2_informatieproducten.md)
+  - [Regie](./handboek/hfdst2/2_3_regie.md)
+- [Operationele bijlagen](./handboek/hfdst3/index.md)
+  - [Functieprofiel van de GeoInformatie medewerker CoPI](./handboek/hfdst3/3_1_functieprofielen_van_de_geo_informatie_medewerker_copi.md)
+  - [Functieprofiel van de GeoInformatie medewerker ROT](./handboek/hfdst3/3_2_geo_informatie_medewerker_rot.md)
+  - [Preparatieve geografische informatie](./handboek/hfdst3/3_3_preparatieve_geografische_informatie.md)
+  - [Verschillende soorten kaartlagen](./handboek/hfdst3/3_4_verschillende_soorten_kaartlagen.md)
+  - [Symbolenset](./handboek/hfdst3/3_5_symbolenset.md)
+  - [Het plaatsen en gebruiken van de Gasmal](./handboek/hfdst3/3_6_het_plaatsen_en_gebruiken_van_de_gasmal.md)
+  - [Het werken met kaartlagen](./handboek/hfdst3/3_7_het_werken_met_kaartlagen.md)
+  - [Stamkaart plot](./handboek/hfdst3/3_8_stamkaart_plot.md)
+- [LCMS](./handboek/hfdst4/index.md)
+  - [LCMS-Symbolenset-LCMS-2023](./handboek/hfdst4/LCMS-Symbolenset-LCMS-2023.md)
+
+
+# Handleiding
+
+[handleiding](./handleiding/handleiding.md)

@@ -1,0 +1,18 @@
+site_name: LCMS Documentatie
+docs_dir: src
+markdown_extensions:
+  - footnotes
+extra_css:
+  - css/nipv.css
+theme:
+  name: readthedocs
+  # Turn off Previous/Next navigation links in the navbar
+  disable_nav_previous_next: true
+  # Turn off Search in the navbar
+  disable_nav_search: true
+  # Turn off the site_name link in the navbar
+  disable_nav_site_name: true
+  # Turn off the footer entirely
+  disable_footer: true
+  # Turn off the default footer message, but display the page revision date if it's available
+  disable_footer_except_revision: true

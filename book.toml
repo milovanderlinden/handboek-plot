@@ -1,6 +1,0 @@
-[book]
-authors = ["Erik van Borkulo", "Anton Aerts", "Werkgroep Plot", "Milo van der Linden"]
-language = "nl"
-multilingual = false
-src = "src"
-title = "Handboek Plot"
