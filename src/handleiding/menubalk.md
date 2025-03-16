@@ -1,0 +1,523 @@
+---
+weight: 3
+---
+# 3 Menubalk 
+
+![](images/lcms-plot-handleiding-15_2.png)  
+
+De menubalk bestrijkt de gehele bovenkant van het scherm. Bij erg smalle schermen kan 
+een deel van de opties onzichtbaar zijn. De menubalk bestaat uit meerdere onderdelen van 
+links naar rechts: 
+ 
+ 
+1. 
+Hamburgermenu: extra opties en instellingen. 
+2. 
+Tekenen: met het vierkant kunnen objecten worden getekend, met de ster kunnen 
+symbolen worden geplaatst. 
+3. 
+Bewerkmenu: Met deze functie kunnen symbolen en objecten gekopieerd, geknipt en 
+geplakt worden, undo- en redo-functie. 
+4. 
+Zoeken: met deze functie is het mogelijk om op locaties en markeringen te zoeken 
+zoals adres, coördinaten, buurten, postcodes, hectometerbordjes en raaipalen. 
+5. 
+Informatie over de naam van de activiteit en het laatste moment waarop er 
+gepubliceerd is.  
+6. 
+Tekenen: met deze functie kan er tussen ‘Tekenen’ en ‘Situatiebeeld instellen’ 
+gewisseld worden. 
+7. 
+Inloginformatie: Hier wordt de inloginformatie weergegeven en hier is de mogelijkheid 
+om uit te loggen.  
+ 
+De geavanceerde functies, in het zwarte kader, zijn rij- en meetopdrachten, scenario’s, 
+logging en analyse. Deze functies worden in **hoofdstuk 6 t/m 10** beschreven. 
+ 
+![](images/lcms-plot-handleiding-16_2.png)  
+![](images/lcms-plot-handleiding-16_3.png)  
+
+3.1  Hamburgermenu met algemene zaken 
+Het hamburgermenu biedt extra functies binnen plot. De onderdelen worden kort benoemd. 
+ 
+**Terug naar LCMS Tekst** 
+Met deze knop wordt geschakeld naar LCMS tekst. Hiermee 
+wordt LCMS plot wordt afgesloten. De knop verdwijnt als je 
+LCMS tekst afsluit. 
+ 
+**Wijzigingen opslaan** 
+Met de knop ‘Wijzigingen opslaan’ kunnen de wijzigingen in de 
+tekening opgeslagen worden. 
+_**N.B.:** Een eerder gepubliceerde tekenlaag, wordt opnieuw gepubliceerd_ 
+_met de wijziging. Een niet gepubliceerde tekenlaag wordt opgeslagen._ 
+_Dan is deze laag alleen zichtbaar voor gebruikers met schrijfrechten._  
+ 
+**Activiteit openen** 
+Via een dialoogvenster kan een andere activiteit geopend 
+waarvoor de gebruiker toegang heeft.  
+ 
+**Activiteit koppelen** 
+Een tekening van een andere activiteit kan gekoppeld worden aan de huidige activiteit via 
+een dialoogvenster. Op basis van de rechten van de gebruiker ziet men de te koppelen 
+activiteiten. 
+ 
+**Printen** 
+De printen knop biedt de mogelijkheid om na instellen, een print te maken van de kaart en 
+op te slaan als pdf. Het huidige zoom niveau binnen plot wordt in de print overgenomen. 
+ 
+**Applicatie verversen** 
+Met de knop applicatie verversen (net zoals snelkoppeling F5). De gebruiker kan hier: een 
+andere domein en proﬁel te kiezen en de nieuwste versie van plot ophalen.  
+ 
+**Over** Met de knop “over”. Hier worden de technische details van de applicatie opgevraagd, zoals 
+het versienummer. De informatie die getoond wordt is met name handig voor ontwikkelaars 
+en het vermelden waard bij het rapporteren van fouten. 
+ 
+Na het selecteren van een activiteit verschijnt de 
+gekoppelde tekening in het overzicht van tekenlagen. 
+Deze gekoppelde tekening is te herkennen aan een icoon 
+van een ketting voor de naam van de gekoppelde 
+tekenlaag. Wijzigingen aan een gekoppelde tekening 
+worden automatisch weergegeven. 
+ 
+In een gekoppelde tekenlaag kan niet getekend worden en bevat alle tekenlagen van de 
+gekoppelde activiteit. 
+ 
+**16/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-17_1.jpg)  
+![](images/lcms-plot-handleiding-17_2.jpg)  
+![](images/lcms-plot-handleiding-17_3.png)  
+3.2  Tekenen 
+De tekentools worden vanaf de menubalk 
+aangezet. Er zijn drie tekeniconen, waarvan 
+één een submenu heeft, van links naar rechts: 
+1. 
+De **selectiepijl** links heeft als functie het 
+getekende object te (de)selecteren en 
+bewerken. Sneltoets: esc. 
+2. 
+Het **vierkant** met uitklappijl bevat een 
+menu om allerlei soorten tekenobjecten 
+te maken. 
+3. 
+Het activiteitensymbool (**ster**) dient om 
+een activiteit op de kaart te zetten (en 
+na selectie ook andere symbolen). 
+ 
+In de volgende paragrafen wordt uitgelegd hoe 
+deze tools functioneren. 
+ 
+ 
+**3.2.1 Eenvoudige objecten: Label, lijn, cirkel, ellips en rechthoek** Veel eigenschappen bij het tekenen gelden voor de objecten 
+label, lijn, cirkel, ellips en rechthoek. In deze paragraaf 
+worden ze benoemd. 
+Deze eenvoudige objecten kunnen getekend worden door in 
+het menu op het betreﬀende menu-item te klikken of door 
+gebruik te maken van sneltoetsen (zie tekenmenu). Met de 
+sneltoets escape wordt het tekenen afgesloten. 
+ 
+ 
+ 
+ 
+**17/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-18_1.jpg)  
+![](images/lcms-plot-handleiding-18_2.png)  
+![](images/lcms-plot-handleiding-18_3.png)  
+![](images/lcms-plot-handleiding-18_4.jpg)  
+_Eigenschappen van object:_ 
+ 
+Standaard zijn dit: 
+1.  **Object naam**: wordt gebruikt 
+om het object te herkennen 
+tussen de objecten en legenda. 
+2.  **Zichtbaar in Legenda**: Bepaalt 
+of dit object in de legenda wordt 
+opgenomen. Bij veel objecten 
+van het zelfde type kan het 
+handig zijn deze niet op te 
+nemen in de legenda. Staat 
+standaard aan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  **Stamkaart**: Het is mogelijk om daarbij standaard 
+opmaak te hanteren. Als er vervolgens op de kaart 
+wordt getekend dan wordt het object weergeven 
+zoals de stamkaart. Bij Labels is geen Stamkaart 
+aanwezig. Hieronder voorbeeld cirkel. 
+4.  **Kleuren**: Bij ieder object zijn er eigenschappen waar 
+een kleur kan gekozen worden. Door op de kleur te 
+klikken, verschijnt er dan een kleurenkiezer. Het witte 
+vak met rode lijn staat voor een transparante 
+weergave en onderin kan de kleurcode worden 
+gekozen. 
+5.  **Rotatie van tekenvormen**: De 
+tekenobjecten kunnen gedraaid/geroteerd 
+worden. Onder de eigenschappen van het 
+object staat de functionaliteit “Roteer 
+object”: 
+ 
+De uitzonderingen zijn: cirkel, sectormal, vuurhaard en foto.  
+ 
+Bij gasmal en vuurhaard hebben een (wind)richting en wordt met die functionaliteit het 
+object gedraaid. Een label kan rond zijn Geo-punt roteren. De cirkel en sectormal zijn 
+ronde symmetrische objecten en is een rotatiefunctie overbodig. 
+ 
+ 
+**18/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-19_1.jpg)  
+![](images/lcms-plot-handleiding-19_2.jpg)  
+![](images/lcms-plot-handleiding-19_3.png)  
+![](images/lcms-plot-handleiding-19_4.png)  
+Bij een object is het ook mogelijk om een 
+beschrijvingen aan een tekstvak toe te voegen. Deze 
+informatie is enkel voor de gebruikers van LCMS plot 
+zichtbaar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+**3.2.2 Tekenen van complexe objecten: sectormal, vuurhaard, gasmal,** 
+**spline, foto en raster** 
+Deze complexe objecten kunnen getekend worden door op het 
+vierkant te klikken en op het menu-item meer te klikken of door 
+gebruik te maken van de sneltoetsen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+**Sectormal** In het veld ‘Sector(en)’ worden de 
+sectoren gescheiden door middel van 
+een komma. Er kan een keuze 
+gemaakt worden van 1 tot en met 12 
+sectoren.  
+Onder Segment wordt ingevuld tot 
+welk segment de sectormal moet 
+worden gevuld (A-E). De bijbehorende afstanden worden automatisch bepaald op basis van 
+de straal van de sectormal.  
+ 
+**19/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-20_1.jpg)  
+![](images/lcms-plot-handleiding-20_2.jpg)  
+![](images/lcms-plot-handleiding-20_3.jpg)  
+![](images/lcms-plot-handleiding-20_4.jpg)  
+**Vuurhaard** 
+De windrichting en de windsnelheid 
+kunnen voor de vuurhaard en gasmal 
+worden ingevuld. Het is ook mogelijk 
+aan te vinken dat de richting en 
+snelheid overgenomen moeten 
+worden van de windroos, welke 
+linksonder op de kaart ingesteld kan 
+worden. 
+**Let op:** als de windroos later wordt aangepast, dan wordt ook deze vuurhaard aangepast! 
+ 
+**Gasmal** 
+De malkleur, het malnummer en 
+windrichting, kunnen voor de gasmal 
+worden ingevuld. Het is ook mogelijk 
+aan te vinken dat de windrichting moet 
+worden overgenomen van de 
+windroos, welke linksonder op de kaart 
+ingesteld kan worden. 
+**Let op:** als de windroos later wordt aangepast, dan wordt ook deze gasmal aangepast! 
+ 
+**Spline** 
+Voor het tekenen van een spline (vrij tekenen) kan een voorbeeld uit de stamkaart worden 
+gekozen. 
+ 
+**Foto** 
+Naast objecten kunnen ook foto's op de 
+kaart geplaatst worden. Na het kiezen van 
+foto uit het menu of de gebruikte sneltoets 
+wordt in de kaart de locatie aangeklikt 
+waar de foto geplaatst moet worden. 
+Hierna opent een pop-up scherm waar de 
+foto kan worden toegevoegd (max 5mb) 
+en simpele bewerking kan worden 
+gedaan. Na opslaan wordt een camera op 
+de kaart geplaatst en de foto zelf is 
+zichtbaar bij de eigenschappen van het 
+object. 
+ 
+ 
+ 
+**20/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-21_1.jpg)  
+![](images/lcms-plot-handleiding-21_2.jpg)  
+**Raster voor evenementen** 
+Het object raster is beschikbaar zodat deze bij 
+evenementen in Plot gezet kan worden en 
+hierdoor de locatie snel kan worden aangewezen.  
+Er kan **maximaal één raster** geplaatst worden in 
+Plot. Het maximaal aantal sectoren in een raster is 
+15.000. De eigenschappen van een raster kunnen 
+aangepast worden. 
+•  **Object naam**: hier staat standaard “Raster 1” 
+en kan aangepast worden.  
+•  **Zichtbaar in legenda**: staat  standaard aan.  
+•  **Tekstlabel:** het raster wordt op een standaard 
+manier gelabeld. Van het tekstlabel in het 
+raster is het volgende in te  instellingen:  
+▪  de tekstgrootte;  
+▪  rotatie;  
+▪  tekst kleur;  
+▪  tekstvak kleur; 
+▪  lijn transparantie; 
+▪  lijn dikte;  
+▪  lijn stijl.  
+•  **Raster**: de grootte van de vakken kan aangepast worden in meters, aantal rijen en 
+aantal kolommen.  
+•  **Coördinaten**: RijksDriehoek X- en Y-coördinaat kan worden aangegeven. WFS84 
+lengtegraad en breedtegraad wordt hier ook ingevuld.  
+•  **Roteer object**: hiermee kan het object geroteerd worden. Het tekstlabel roteert niet met 
+het raster mee, dit moeten bij de rotatie onder tekstlabel.  
+•  De **undo-redo** knoppen werken, waarbij de kanttekening moet zijn dat als er gebruik 
+wordt gemaakt van de rotatie de undo-redo minimaal zichtbaar is, aangezien elk 
+rotatiepunt dan wordt gepakt. 
+ 
+ 
+ 
+**21/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-22_1.jpg)  
+![](images/lcms-plot-handleiding-22_2.png)  
+![](images/lcms-plot-handleiding-22_3.jpg)  
+![](images/lcms-plot-handleiding-22_4.png)  
+**3.2.3 Incidentlocatie en symbolen** In vorige paragrafen is uitleg gegeven over de eenvoudige en complexe 
+objecten onder het (vierkant knop).  
+In deze paragraaf wordt er uitleg gegeven over de **incidentlocatie** en 
+andere symbolen (**ster knop**). 
+ 
+Standaard is het incidentlocatie-symbool geselecteerd. Echter kan ook 
+meteen in het rechter paneel een ander symbool gekozen worden.  
+ 
+Onder ‘Kies een categorie’ zit een dropdown menu waar alle disciplines 
+staan en één voor één geselecteerd kunnen worden: 
+Verder kan er gezocht worden op naam door deze in te vullen bij “Filter 
+Symbolen”. Voor de (zoek)benaming van deze symbolen kan je over de 
+symbolen heen ‘hoveren’. 
+ 
+Door op de pijl in de menubalk te klikken of gebruik te maken van de 
+sneltoets escape is het mogelijk om te stoppen met iconen plaatsen.  
+ 
+Het symbool kan weer geselecteerd worden om de eigenschappen te 
+veranderen of te verplaatsen.  
+ 
+Een eigenschap van een incidentlocatie/symbool die nadere uitleg vergt 
+is:  
+• 
+**Zichtbaar in legenda**: Bepaalt of dit object in de legenda wordt 
+opgenomen. 
+**Object meeschalen**: Wanneer object meeschalen is aangevinkt 
+krijgt het symbool een vaste grootte. Schalen van symbolen/tekst 
+**staan standaard uit**, zodat de symbolen zonder te ver in te 
+zoomen al duidelijk zijn. 
+• 
+**Label tonen**: Met het aanvinken van label tonen kan er tekst 
+worden getoond naast het symbool. 
+• 
+**Symbool**: Hier kan het symbool gewijzigd worden. 
+ 
+ 
+ 
+ 
+**22/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-23_1.jpg)  
+![](images/lcms-plot-handleiding-23_2.jpg)  
+![](images/lcms-plot-handleiding-23_3.jpg)  
+**3.2.4 Schalen van symbolen/tekst** In tekenlagen van Plot staat schalen van symbolen/tekst **standaard uit**, zodat de symbolen 
+bij ver uitzoomen duidelijk zichtbaar blijven. 
+Dit is ook zichtbaar wanneer een symbolen/tekst geplot is. Zodra er op een symbolen/tekst 
+aan de linker paneel geklikt wordt, zijn de ‘Eigenschappen’ en ‘Legenda’ van het symbool 
+zichtbaar. In dit paneel staat het vinkje voor ‘Object meeschalen’ standaard uit. 
+ 
+ 
+ 
+**23/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-24_1.jpg)  
+![](images/lcms-plot-handleiding-24_2.png)  
+![](images/lcms-plot-handleiding-24_3.png)  
+**3.2.5 Verplaatsen objecten over tekenlagen** Het is mogelijk om objecten van een tekenlaag naar een 
+andere tekenlaag te verslepen. Klik en sleep het object in het 
+linker paneel naar een andere tekenlaag boven in het in het 
+paneel verplaatst. 
+ 
+ 
+ 
+ 
+ 
+3.3  Bewerkmenu 
+Met deze functie is het mogelijk om 
+• 
+symbolen en objecten kunnen gekopieerd en geplakt worden 
+• 
+de uitgevoerde actie ongedaan maken (undo) en opnieuw uitgevoerd worden (redo).  
+ 
+Als een gebruiker per ongeluk een object e.d. verplaatst dan kan deze met de knop met 
+pijltjes 5 stappen maximaal terug (undo) en vooruit (redo) worden gezet. 
+De sneltoetsen Ctrl-Z (undo) en Ctrl-Y (redo) zijn hier ook voor beschikbaar. 
+ 
+De stappen terug en vooruit zijn alleen voor wijzigingen attributen op: 
+ 
+**Object** 
+**Acties** 
+**Undo** 
+**Redo** 
+Symbool 
+plaatsen, verplaatsen, kopiëren, knippen, plakken en  Ja 
+Ja 
+verwijderen 
+Label, lijn, cirkel, 
+plaatsen, verplaatsen, wijzigen, kopiëren, knippen, 
+Ja 
+Ja 
+ellips, rechthoek, 
+plakken en verwijderen 
+sectormal, spline 
+Vuurhaard, gasmal  plaatsen, verplaatsen, handmatig wijzigen, kopiëren,  Ja 
+Ja 
+knippen, plakken en verwijderen 
+Foto 
+plaatsen, verplaatsen, kopiëren, knippen, plakken en  Ja 
+Ja 
+verwijderen 
+  
+ 
+ 
+**24/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-25_1.jpg)  
+![](images/lcms-plot-handleiding-25_2.png)  
+![](images/lcms-plot-handleiding-25_3.png)  
+![](images/lcms-plot-handleiding-25_4.png)  
+3.4  Zoeken 
+Via de zoekfunctie is de locatie op te vragen. Het zoekvenster kan geopend worden door de 
+loep in de balk te selecteren. 
+ 
+ 
+ 
+**3.4.1 Adres** De locatie wordt opgevraagd bij een algemene geocodeerservice van de overheid (PDOK). 
+Er worden meerdere opties weergegeven indien beschikbaar, gerangschikt naar de 
+dichtstbijzijnde locatie. Door op een van de opties te klikken zoomt de kaart naar die locatie. 
+**3.4.2 Rijksdriehoek** Hiernaast kun je ook Rijksdriehoek (RD)-coördinaten invoeren, bv: 83800,435600. De 
+zoekfunctie geeft dan de optie: XY-coördinaat (83800,435600). Als er geklikt wordt op deze 
+optie zoomt de kaart daar naartoe. 
+**3.4.3 WGS84** Er kan gezocht worden op WGS84 (GPS)-coördinaten in volgende format: 52.1408, 5.0444. 
+Als er geklikt wordt op deze optie zoomt de kaart daar naartoe. 
+**3.4.4 Hectometerpaal** Ook kan er gezocht worden op hectometerpalen met volgend format snelweg 
+hectometernummer. Bijvoorbeeld je zoek A12 hectometerpaal 124: dan zoek je A12 1240. 
+Als men klikt op Hectometerpaal zoomt de kaart naar de locatie. Indien dit niet goed werkt 
+dient de locatie uit worden gezet in de browser. De zoeklocatie wordt op de kaart 
+gemarkeerd. Door op het kruisje te klikken sluit het zoekpaneel. 
+3.5  Situatiebeeld instellen 
+Met het instellen van het situatiebeeld geeft een gebruiker aan wat gebruikers zonder 
+plotrechten standaard zien in het graﬁsch beeld van de activiteit.  
+ 
+**3.5.1 Schakelaar tussen tekenen en instellen situatiebeeld** De applicatie heeft rechts bovenin een schakelaar met twee standen: tekenen en instellen 
+situatiebeeld. De applicatie start standaard in teken-modus op. 
+ 
+ 
+ 
+ 
+**25/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-26_1.jpg)  
+![](images/lcms-plot-handleiding-26_2.jpg)  
+![](images/lcms-plot-handleiding-26_3.jpg)  
+Na het selecteren ‘situatiebeeld instellen’ opent plot in een vereenvoudigde vorm. De optie 
+om tekenlagen en groepen toe te voegen verdwijnt, en de titel ‘situatiebeeld instellen’ 
+verschijnt links (zie schermafbeelding hieronder). 
+ 
+Het is mogelijk om de tekenlagen en de datalagen aan te vinken die in het situatiebeeld 
+standaard zichtbaar moet zijn. Alleen gepubliceerde kaartlagen zijn hier zichtbaar. Hieronder 
+is bijvoorbeeld te zien dat de tekenlaag “cirkellaag” is uitgevinkt en niet zichtbaar is. 
+ 
+**3.5.2 Situatiebeeld instellen vanuit tekenen** De gebruiker kan naast het instellen van het situatiebeeld ook bij de tekenlaag het 
+situatiebeeld standaard zichtbaar maken.  
+ 
+ 
+ 
+ 
+**26/52** 
+ 
+
+* * *
+
+![](images/lcms-plot-handleiding-27_1.jpg)  
+![](images/lcms-plot-handleiding-27_2.jpg)  
+**3.5.3 Grafische beeld in het situatiebeeld** In voorgaande paragraven is te zien hoe het situatiebeeld ingesteld kan worden. In het 
+onderstaande schermafbeelding is te zien wat een gebruiker zonder plotrechten ziet. 
+Standaard zijn de panelen ingeklapt. In dit voorbeeld hieronder is het linker paneel 
+opengeklapt om aan te tonen dat de tekenlaag “cirkellaag” standaard is uitgevinkt. 
+ 
+ 
+ 
+ 
+**27/52** 
+ 
+
+* * *
+

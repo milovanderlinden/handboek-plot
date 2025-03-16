@@ -1,6 +1,9 @@
-## 4.1 LCMS Symboliek Plot
 
-### Pointers
+# LCMS Symboliek Plot
+
+_voor verouderde symbolen zie [symbolenset_vorige_versie.md](symbolenset_vorige_versie.md)_
+
+## Pointers
 
 Middels verschillende pointers wordt een type geduid. We maken hierbij onderscheid tussen incidenten, eenheden, objecten en gebeurtenissen.
 

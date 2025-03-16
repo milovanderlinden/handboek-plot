@@ -4,6 +4,7 @@ markdown_extensions:
   - footnotes
 extra_css:
   - css/nipv.css
+
 theme:
   name: readthedocs
   # Turn off Previous/Next navigation links in the navbar
@@ -16,3 +17,12 @@ theme:
   disable_footer: true
   # Turn off the default footer message, but display the page revision date if it's available
   disable_footer_except_revision: true
+
+plugins:
+  - search
+  - mkdocs-nav-weight:
+      section_renamed: false
+      index_weight: -10
+      warning: true
+      reverse: false
+      headless_included: false
