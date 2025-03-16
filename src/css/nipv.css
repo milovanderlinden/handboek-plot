@@ -110,3 +110,11 @@ h3 {
 .content-info {
   display: none;
 }
+
+.wy-table-responsive table td > img {
+  max-width: 36px;
+}
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+  white-space: wrap;
+}
