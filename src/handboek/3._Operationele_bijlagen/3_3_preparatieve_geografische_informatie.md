@@ -22,14 +22,15 @@ In deze instructie zijn eisen opgenomen voor de LCMS plot omgeving.
 #### Algemene uitgangspunten
 
 ##### Verantwoordelijke voor LCMS preparatie
-De gemeente waar het evenement plaats vindt is als vergunningverlener verantwoordelijk
-voor het op de juiste wijze plaatsen van preparatie informatie in LCMS. De gemeente kan daarbij worden ondersteund door de kerninstructeurs LCMS van de eigen kolom en /of door het Team Multidisciplinaire Opschaling van de Veiligheidsregio.
+
+De gemeente waar het evenement plaats vindt is als vergunningverlener verantwoordelijk voor het op de juiste wijze plaatsen van preparatie informatie in LCMS. De gemeente kan daarbij worden ondersteund door de kerninstructeurs LCMS van de eigen kolom en /of door het Team Multidisciplinaire Opschaling van de Veiligheidsregio.
 
 ##### Preparatie activiteit wordt repressie activiteit
-Indien er bij een geprepareerd evenement een incident ontstaat die noopt tot een GRIP opschaling, dan wordt er geen nieuwe activiteit in LCMS aangemaakt maar wordt gebruik gemaakt van de geprepareerde LCMS-activiteit. De CaCo zal in dat geval de naam van de
-activiteit aanpassen zodat voor ieder duidelijk is dat het om een incident gaat.
+
+Indien er bij een geprepareerd evenement een incident ontstaat die noopt tot een GRIP opschaling, dan wordt er geen nieuwe activiteit in LCMS aangemaakt maar wordt gebruik gemaakt van de geprepareerde LCMS-activiteit. De CaCo zal in dat geval de naam van de activiteit aanpassen zodat voor ieder duidelijk is dat het om een incident gaat.
 
 ##### Vaste naam in LCMS
+
 Een preparatie van een C evenement is te herkennen aan de naamgeving van de activiteit:
 
 [regionummer][EVENT][naam evenement] [gemeente]
