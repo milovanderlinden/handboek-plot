@@ -14,8 +14,10 @@ Gebruikers kunnen de graﬁsche informatie publiceren voor gebruikers met en zon
 Er is voor Plot een e-learning gemaakt. Deze cursus is geschikt voor beginnend LCMS gebruikers of gebruikers die zijn/haar kennis op willen frissen. Link[: https://lcms.nl/e-learning](https://lcms.nl/e-learning) 
 
 ## 1.2 Indeling document
+
 Wanneer plot geopend wordt zal men onderstaande scherm zichtbaar zijn.
- 
+![](images/lcms-plot-handleiding-5_2.jpg)
+
 De volgende hoofdstukken komen aan bod en zijn aangeduid met een nummer in 
 bovenstaande scherm: 
 
@@ -31,16 +33,3 @@ De volgende geavanceerde functionaliteiten zijn niet weergeven op bovenstaand sc
 - Import en export van kaartlagen. 
  
 1. Met uitzondering opensimpletopo omdat die wordt behandeld in bij kaart met tools. 
-2. Tekenlagen, groepen, publiceren, datalagen 
- 
-In het linker paneel wordt een overzicht bijgehouden van 
-tekenlagen, datalagen en tekenobjecten op de kaart. Over het 
-algemeen geeft het rechter paneel meer details over het 
-onderdeel dat in het linker paneel is geactiveerd.  
- 
-Het linker paneel kent drie onderdelen:
-
-1. Boomstructuur met alle tekenlagen 
-2. Boomstructuur met alle (Geo)datalagen 
-3. Lijst met alle objecten in de actieve tekenlaag 
- 
