@@ -18,7 +18,7 @@ De outline kleur is altijd gelijk aan het geplaatste icoon. De keus voor zwart o
 |![](images/object.svg)|**Object** <br> Symboliseert de locatie van een object. Dit betreft een locatie die vast staat op een bepaalde punt. Denk hierbij aan een insluitingslocatie of een zendmast.|
 |![](images/event.svg)|**Gebeurtenis** <br> Symboliseert de locatie van een tijdelijke gebeurtenis of actie. Denk hierbij aan een afzetting of locatie van slachtoffers.|
 
-### Afzenders
+## Afzenders
 
 Binnen het LCMS worden vanuit meerdere zuilen plots gemaakt. Voor iedere afzender is een eigen kleur bepaald welke gebruikt kan worden in de pointers om een desbetreffende zuil te duiden.
 
@@ -34,13 +34,13 @@ Binnen het LCMS worden vanuit meerdere zuilen plots gemaakt. Voor iedere afzende
 |![](images/square-rijkswaterstaat.svg)|**Rijkswaterstaat** <br> #fff329 |
 |![](images/square-waterschap.svg)|**Waterschap** <br> #192bc2 |
 
-### Iconen
+## Iconen
 
 Binnen de pointers kunnen iconen geplaatst worden om extra duiding te geven. De iconen zijn opgemaakt in 24x24px en bestaan uit 1 kleur (wit of zwart). Een aantal voorbeelden van iconen zijn hieronder te zien.
 
 ![](images/_page_3_Picture_2.jpeg)
 
-### Incidenten
+## Incidenten
 
 Onderstaande incident pointers zijn gedefinieerd voor gebruik in LCMS.
 
@@ -63,7 +63,7 @@ Onderstaande incident pointers zijn gedefinieerd voor gebruik in LCMS.
 |Hoog urgent of veel impact|||||||||![](images/symbols/waterschap/incidenten/hoog-urgent-of-veel-impact.png)|
 |Laag urgent weinig impact|||||||||![](images/symbols/waterschap/incidenten/laag-urgent-weinig-impact.png)|
 
-### Eenheden
+## Eenheden
 
 Onderstaande eenheid pointers zijn gedefinieerd voor gebruik in LCMS.
 
@@ -88,7 +88,7 @@ Onderstaande eenheid pointers zijn gedefinieerd voor gebruik in LCMS.
 |Voetsurveillance||![](images/symbols/politie/eenheden/voetsurveillance.png)|||![](images/symbols/kmar/eenheden/voetsurveillance.png)|![](images/symbols/defensie/eenheden/voetsurveillance.png)|||![](images/symbols/waterschap/eenheden/voetsurveillance.png)|
 
 
-#### Aanvullende algemene Defensie eenheden
+### Aanvullende algemene Defensie eenheden
 
 |Symbool|Eenheid|
 |---|---|
@@ -97,7 +97,7 @@ Onderstaande eenheid pointers zijn gedefinieerd voor gebruik in LCMS.
 |![](images/symbols/defensie/eenheden/landmacht.png)|Landmacht (CLAS)|
 |![](images/symbols/defensie/eenheden/dmo.png)|DMO|
 
-### Objecten
+## Objecten
 
 Onderstaande eenheid pointers zijn gedefinieerd voor gebruik in LCMS.
 
@@ -134,7 +134,7 @@ Onderstaande eenheid pointers zijn gedefinieerd voor gebruik in LCMS.
 | Verzamelplaats vast ||![](images/symbols/politie/objecten/verzamelplaats_vast.png)|||![](images/symbols/kmar/objecten/verzamelplaats_vast.png)|![](images/symbols/defensie/objecten/verzamelplaats_vast.png)|
 | Verzegeld pand ||![](images/symbols/politie/objecten/verzegeld_pand.png)|||![](images/symbols/kmar/objecten/verzegeld_pand.png)|
 
-### Gebeurtenissen
+## Gebeurtenissen
 
 Onderstaande gebeurtenis pointers zijn gedefinieerd voor gebruik in LCMS.
 
@@ -162,7 +162,7 @@ Onderstaande gebeurtenis pointers zijn gedefinieerd voor gebruik in LCMS.
 |Noodmaatregel||||||||![](images/symbols/rijkswaterstaat/gebeurtenissen/noodmaatregel.png)|![](images/symbols/waterschap/gebeurtenissen/noodmaatregel.png)|
 |Ontsmettingslocatie|![](images/symbols/algemeen/gebeurtenissen/ontsmettingslocatie.png)|![](images/symbols/politie/gebeurtenissen/ontsmettingslocatie.png)|![](images/symbols/brandweer/gebeurtenissen/ontsmettingslocatie.png)||![](images/symbols/kmar/gebeurtenissen/ontsmettingslocatie.png)|![](images/symbols/defensie/gebeurtenissen/ontsmettingslocatie.png)|
 |Persleidingbreuk|||||||||![](images/symbols/waterschap/gebeurtenissen/persleidingbreuk.png)|
-|Plaats delict|![](images/symbols/algemeen/gebeurtenissen/plaats_delict.png)|![](images/symbols/politie/gebeurtenissen/plaats_delict.png)||||![](images/symbols/kmar/gebeurtenissen/plaats_delict.png)|
+|Plaats delict|![](images/symbols/algemeen/gebeurtenissen/plaats_delict.png)|![](images/symbols/politie/gebeurtenissen/plaats_delict.png)|||![](images/symbols/kmar/gebeurtenissen/plaats_delict.png)|
 |Ramptoeristen pers|![](images/symbols/algemeen/gebeurtenissen/ramptoeristen_pers.png)|||||||||![](images/symbols/rijkswaterstaat/gebeurtenissen/ramptoeristen_pers.png)|
 |Schip||||||||![](images/symbols/rijkswaterstaat/gebeurtenissen/schip.png)|
 |Slachtoffer dodelijk|![](images/symbols/algemeen/gebeurtenissen/slachtoffer_dodelijk.png)|![](images/symbols/politie/gebeurtenissen/slachtoffer_dodelijk.png)||||||||![](images/symbols/rijkswaterstaat/gebeurtenissen/slachtoffer_dodelijk.png)|
