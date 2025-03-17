@@ -1,6 +1,12 @@
+---
+title: 3.3 Preparatieve geografische informatie
+---
+
 ## 3.3 Preparatieve geografische informatie
 
 ### Preparatie informatie in LCMS
+
+In LCMS is het mogelijk om te werken met voorbereiden activiteiten. Informatie die vooraf bekend is, kan worden klaargezet in een activiteit. Denk aan evenementen of uitgewerkte planvorming (hoogwater maas, schiphol, kerncentrale)
 
 #### C- Evenementen[^8]
 *Versie 0.1 14 november 2014*

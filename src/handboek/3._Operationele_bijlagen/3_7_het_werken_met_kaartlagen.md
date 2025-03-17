@@ -29,24 +29,6 @@ De hoofdstructuur kan gezien worden als de tabbladen in LCMS-tekst. Onder deze
 tabbladen bevind zich de thematische structuur gebaseerd op de processen uit de
 hoofdstructuur.
 
-Op basis hiervan ontstaan diverse rollen voor de geo-informatie medewerker, wetende:
-- monodisciplinaire geo-informatie medewerker;
-- multidisciplinair geo-informatie medewerker;
-- regievoerend geo-informatie medewerker.
-
-### Monodisciplinaire geo-informatie medewerker
-Binnen deze rol publiceert de geo-informatie medewerker geografische informatie die past
-bij het proces op de daarvoor bestemde kaartlaag.
-
-### Multidisciplinaire geo-informatie medewerker
-De geo-informatie medewerker clustert informatie op basis van de behoefte van leiding en
-coördinatie. Hieruit ontstaat een multidisciplinair geografisch beeld. Het getoonde beeld
-bevat dan ook niet alle beschikbare informatie en bevat slechte een overzichtelijk beeld
-zonder monodisciplinaire details. Naast het clusteren van informatie draagt de
-multidisciplinaire geo-informatie medewerker ook zorg voor het toevoegen van informatie in
-het multidisciplinaire beeld.
-
-
 ### Regievoerend geo-informatie medewerker
 Het multidisciplinaire grafisch beeld wordt opgesteld door de regievoerend geo-informatie
 medewerker. Dit beeld bevat informatie uit monodisciplinaire lagen en objecten.

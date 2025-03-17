@@ -1,3 +1,7 @@
+---
+title: 2.1 Samen sterk!
+---
+
 ## 2.1 Samen sterk!
 
 ### Hoe werken we binnen het netwerk met elkaar samen?
@@ -20,6 +24,7 @@ Het situatiebeeld is net als bij het tekstuele beeld een samenvatting van het to
 ### Aandacht voor multi- en monodisciplinair
 Multidisciplinair, monodisciplinair en crisispartners leveren geografische gegevens aan
 zoals:
+
 - locatie incident;
 - meteogegevens;
 - preparatieve informatie;
@@ -33,14 +38,16 @@ zoals:
 
 Het proces informatiemanagement moet zorgen dat deze gegevens worden omgevormd naar een relevant beeld ten behoeve van het besluitvormingsproces. De gegevens kunnen op verschillende manieren worden aangeboden aan het informatiemanagement: via kaartlagen of mondeling aan de geo-informatie medewerker.
 
+![Samen sterk](images/samen_sterk.png)
+
+![Beeldvorming](images/afbeelding_2.png)
 
 Via standaarden is het mogelijk om geografische informatie met elkaar te combineren en te delen. Via bijvoorbeeld een WMS kaartlaag is het mogelijk om een verschillende gegevens met elkaar te kunnen combineren, zoals:
+
 - preparatieve gegevens (Bereikbaarheidskaarten, risicokaarten);
 - basis registraties (BAG, TOP10NL)
 - gegevens externe partijen (Rijkswaterstaat en Prorail);
 - geografisch beeld vanuit andere veiligheidsregio’s of de overheid.
-
-Informatiemanagement is verantwoordelijk voor het ontvangen en ontsluiten van geografische gegevens. Daarnaast genereren de multidisciplinaire gremia ook geografische informatie, zoals het brongebied en het effectgebied, die relevant is voor de monodisciplinaire partijen.
 
 ### Inhoudelijke analyse en delen van geografische informatie
 De informatieorganisatie is verantwoordelijk voor het proces **delen en laten stromen van informatie**. Het geografisch beeld maakt daar onderdeel van uit, want door de incidentlocatie zichtbaar te maken voor alle betrokken partijen draag je bij aan dit itgangspunt.
@@ -48,6 +55,6 @@ De informatieorganisatie is verantwoordelijk voor het proces **delen en laten st
 Naast het laten stromen van informatie zijn er inhoudelijk deskundigen die een **analyse** kunnen maken vanuit het monodisciplinaire proces. Een adviseur gevaarlijke stoffen berekent op basis van zijn inhoudelijke kennis een effectgebied wat geografisch omgezet
 kan worden in een vlak. Het is belangrijk dat die inhoudelijke analyses worden gedaan door functionarissen die inhoudelijke kennis en expertise hebben. De uitkomsten van de analyse moeten worden vertaald naar een geografisch beeld wat door de AGS zelf of door een geo-informatie medewerker ingevoerd kan worden. Op basis van dit vlak kan er vervolgens een analyse worden gemaakt welke kwetsbare objecten er zich onder dit vlak bevinden. Deze vorm van analyse maakt het werken met geografische informatie krachtig en voor de crisisbeheersing een cruciale tool.
 
-Binnen de veiligheidsregio’s worden al **Geografische Informatie Systemen (GIS)** gebruikt, zoals Arc GIS en Mapinfo. Via een open standaard zoals benoemd in de VERA 2.0[^5] is het mogelijk om de dynamische geo-informatie in te lezen in de GIS applicaties en op basis daarvan nadere analyses te maken. Hiermee is er een aansluiting gemaakt op de bestaande geografische informatie systemen en de dynamische informatie die tijdens de crisis wordt aangemaakt.
+Binnen de veiligheidsregio’s worden al **Geografische Informatie Systemen (GIS)** gebruikt. Via een open standaard zoals benoemd in de VERA 2.0[^5] is het mogelijk om de dynamische geo-informatie in te lezen in de GIS applicaties en op basis daarvan nadere analyses te maken. Hiermee is er een aansluiting gemaakt op de bestaande geografische informatie systemen en de dynamische informatie die tijdens de crisis wordt aangemaakt.
 
 [^5]: [http://www.infopuntveiligheid.nl/wiki/vera/Paginas/Introductie.aspx](http://www.infopuntveiligheid.nl/wiki/vera/Paginas/Introductie.aspx)

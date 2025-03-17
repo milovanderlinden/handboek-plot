@@ -1,4 +1,11 @@
+---
+title: 3.1 Functieprofiel van de GeoInformatie medewerker CoPI
+---
+
 ## 3.1 Functieprofiel van de GeoInformatie medewerker CoPI
+
+_Voor het functieprofiel heeft de werkgroep Plot een advies gegeven voor aanpassing, eind dit jaar start het NIPV met het opstellen van een kwalificatiedossier._
+
 ### Titel functie
 
 GeoInformatie medewerker CoPI[^6]

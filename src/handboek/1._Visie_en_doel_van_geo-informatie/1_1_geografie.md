@@ -2,7 +2,7 @@
 
 De meeste aspecten van een ramp of crisis hebben een
 geografische component: waar is de ramp of crisis, waar
-bevinden zich de hulpdiensten, wat is het effectgebied als de dijk
+bevinden zich de hulpdiensten, waar merken we effecten als de dijk
 doorbreekt? Een belangrijk deel van de informatie tijdens een
 ramp of crisis is geografische informatie. __Geografische
 informatievoorziening__ helpt de crisisorganisatie bij de

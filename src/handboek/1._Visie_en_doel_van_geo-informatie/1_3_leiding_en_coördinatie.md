@@ -27,12 +27,8 @@ vitale voorzieningen – gezien de geografie – worden bedreigd. Om geografisch
 te kunnen geven op knelpunten zal er in sommige gevallen een analyse gemaakt moeten
 worden. Bij een knelpunt, hoe gaan we de bevolking waarschuwen, kan de geo-informatie
 
-
 medewerker de WAS palen zichtbaar maken in het effectgebied. Een knelpunt kan ook in de
-toekomst liggen waarbij het noodzakelijk is om een __prognose__ op te stellen. Deze prognose
-kan ook geografische aspecten kennen en ruimtelijk worden weergegeven. Bij een emissie
-van een gevaarlijke stof kan het effectgebied worden weergeven met een vlak, de
-zogenaamde Gasmal.
+toekomst liggen waarbij het noodzakelijk is om een __prognose__ op te stellen. Deze prognose kan ook geografische aspecten kennen en ruimtelijk worden weergegeven. Bij een emissie van een gevaarlijke stof kan een eerste indicatie van het effectgebied worden weergegeven met een vlak, de zogenaamde Gasmal.
 
 Bij een verwachte draaiing van de wind kun je weergeven wat het verwachte effectgebied
 gaat worden door deze mal te plaatsen met een tijdstip wanneer verwacht wordt dat het

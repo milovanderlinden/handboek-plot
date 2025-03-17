@@ -16,20 +16,8 @@ Deze regionale piketfunctionaris adviseert de brandweer officier van dienst of h
 Commando Plaats Incident, CoPI. De AGS richt zich net als een CoPI op het brongebied.
 
 ### Meet Plan Leider
-De (inter)regionale functionaris geeft vanuit het brandweer actiecentrum meetplan
-verplaatstings- en meetopdrachten aan de meetploegen. Hiervoor wordt eerst een verwacht
-effectgebied geplot, op basis van de betrokken stoffen, het geconstateerde of verwachte
-scenario.
 
-
-### Metingen
-Een meetploeg kan drie soorten metingen uitvoeren: 1) Gasmeting, 2) Simultaanmeting en
-3) Radiologische meting. Bij een gasmeting wordt met één of enkele zogenaamde
-gasmeetbuisjes een concentratiemeting uitgevoerd. Een meetbuisje kan daarbij één of meer
-soorten gevaarlijke stoffen meten. Als niet bekend is welke stoffen er vrij zijn gekomen kan
-er worden gemeten met een zogenaamde simultaanmeting. Bij een gas- en simultaanmeting
-wordt ook een gasdetector gebruikt voor onder andere het explosiegevaar en de
-concentratie van zuurstof, koolmonoxide en enkele andere veel voorkomende stoffen.
+De (inter)regionale functionaris geeft vanuit het brandweer actiecentrum meetplan verplaatstings- en meetopdrachten aan de meetploegen. Hiervoor wordt eerst een verwacht effectgebied geplot, op basis van de betrokken stoffen, het geconstateerde of verwachte scenario.
 
 ### Advisering
 Op basis van de interpretatie van de meetresultaten stelt de MPL een advies op voor de

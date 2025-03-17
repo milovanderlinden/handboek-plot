@@ -10,11 +10,11 @@ Het handboek Plot bestaat uit de drie onderstaande onderdelen:
 ### 1. Visie en doel van geo-informatie
 
 In dit stuk staat het doel beschreven van geo-informatie en de visie hoe geo-informatie
-bijdraagt aan de crisisbeheersing (voor de komende drie à vijf jaar).
+bijdraagt aan de crisisbeheersing.
 
 ### 2. Werkwijze voor het delen van geo-informatie
 In dit stuk is de werkwijze beschreven die als landelijk kader dient voor geo-informatie
-medewerker en geldig is voor de komende drie jaar. Bij het beschrijven van de werkwijze is
+medewerker. Bij het beschrijven van de werkwijze is
 uitgegaan van succesfactoren / sleutelindicatoren (denk o.a. aan regievoering, etc.).
 
 ### 3. Operationele bijlagen
@@ -32,8 +32,6 @@ De volgende operationele bijlagen zijn opgenomen:
 
 Het oogmerk van het handboek plot is om te komen tot een landelijk vastgestelde visie en
 werkwijze voor het geografische beeld in LCMS. De doelgroep van dit handboek zijn alle
-leden die te maken hebben met operationeel informatiemanagement. Daarnaast is vooral de
-visie van belang voor leiding en coördinatie zodat deze een zicht hebben hoe een
-geografisch beeld hun proces kan ondersteunen.
+crisisfunctionarissen die te maken hebben met (geografisch) informatiemanagement. Daarnaast is vooral de visie van belang voor leiding en coördinatie zodat deze een zicht hebben hoe een geografisch beeld hun proces kan ondersteunen.
 
 [^1]: Referentiekader Netcentrische Crisisbeheersing 2015, versie 2.0 6 juli 2015

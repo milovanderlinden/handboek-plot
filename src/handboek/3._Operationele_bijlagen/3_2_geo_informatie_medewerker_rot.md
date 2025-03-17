@@ -1,7 +1,12 @@
+---
+title: 3.2 Functieprofiel van de GeoInformatie medewerker ROT
+---
+
 ## 3.2 Functieprofiel van de GeoInformatie medewerker ROT
-<span class="secondary" style="font-style: italic;">
-(Tevens regie voerende GeoInformatie medewerker)
-</span>
+_(Tevens regie voerende GeoInformatie medewerker)_
+
+
+_Voor het functieprofiel heeft de werkgroep Plot een advies gegeven voor aanpassing, eind dit jaar start het NIPV met het opstellen van een kwalificatiedossier._
 
 ### Titel functie
 

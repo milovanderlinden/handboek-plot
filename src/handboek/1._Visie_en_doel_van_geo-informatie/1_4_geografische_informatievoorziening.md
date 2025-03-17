@@ -3,8 +3,8 @@
 Voor het werken met geografische informatie en het kunnen ontsluiten van __preparatieve
 gegevens__ is geografische informatievoorziening noodzakelijk. Een onderdeel daarvan is de
 beschikbaarheid van de geo-informatie. Hiervoor is een start gemaakt met het zogenaamde
-landelijke geoserver (yMC2). Hiermee beschikt de crisisorganisatie over diverse
-geografische informatie uit onder andere basisadministraties van Ministeries en veel van
+landelijke geoserver van Geo4OOV. Hiermee beschikt de crisisorganisatie over diverse
+geografische informatie uit onder andere basisregistraties van Ministeries en veel van
 onze crisispartners[^2]. Zo kan de kaartlaag met kwetsbare objecten uit de professionele
 risicokaart worden getoond.
 
