@@ -173,8 +173,6 @@ gewenste voertuigen al geselecteerd.
 Tot slot dient de meetplanleider de gewenste metingen te 
 definiëren via de knop meetopdracht maken. 
  
-![](images/lcms-plot-handleiding-45_2.png)  
-
 Na het aanmaken van een nieuwe meetopdracht wordt het nummer (en eventueel extra 
 tekst) weergegeven bij gasmeetbuisje.  
  
@@ -191,71 +189,40 @@ de opdracht verzonden worden.
 
 In het linker paneel wordt het tabblad meetvoertuigen gekozen. 
 
-![](images/lcms-plot-handleiding-45_4.jpg)
- 
- 
- 
+![](images/lcms-plot-handleiding-45_2.png)
  
 In dit paneel staan de beschikbare voertuigen waarvoor een meetopdracht gedeﬁnieerd kan 
 worden. Daarna kan de bevelvoerder zijn ontvangen meetopdrachten zien in het 
 rechtertabblad. 
- 
- 
-**45/52** 
- 
 
-* * *
-
-![](images/lcms-plot-handleiding-46_1.jpg)  
 ![](images/lcms-plot-handleiding-46_2.png)  
+ 
+Een meetopdracht gaat door een aantal statussen:
+
+- verzonden (meetplanleider)  
+- ontvangen (automatisch na ontvangst)  
+- geaccepteerd (bevelvoerder)  
+- afgerond (bevelvoerder) 
+- gesloten (meetplanleider)  
+- ingetrokken (meetplanleider) 
+
 ![](images/lcms-plot-handleiding-46_3.png)  
- 
- 
-Een meetopdracht gaat door een aantal statussen: 
-• 
-verzonden (meetplanleider)  
-• 
-ontvangen (automatisch na ontvangst)  
-• 
-geaccepteerd (bevelvoerder)  
-• 
-afgerond (bevelvoerder) 
-• 
-gesloten (meetplanleider)  
-• 
-ingetrokken (meetplanleider) 
  
 De bevelvoerder ontvangt de opdracht van de 
 meetplanleider en kan de opdracht accepteren en kan 
 na uitvoering afronden. 
  
-De lijst met opdrachten kan op basis van die statussen geﬁlterd worden. 
- 
- 
- 
-**46/52** 
- 
+De lijst met opdrachten kan op basis van die statussen geﬁlterd worden.
 
-* * *
+### 9.4.2 Details van een meetopdracht
 
-![](images/lcms-plot-handleiding-47_1.jpg)  
-![](images/lcms-plot-handleiding-47_2.png)  
-![](images/lcms-plot-handleiding-47_3.png)  
-![](images/lcms-plot-handleiding-47_4.jpg)  
-**9.4.2 Details van een meetopdracht** Bij het klikken op een meetopdracht worden de details van de 
+Bij het klikken op een meetopdracht worden de details van de 
 meetopdracht weergegeven. Afhankelijk van de status van de 
 opdracht is het mogelijk voor de bevelvoerder de opdracht te 
 accepteren of te afronden. Het rechter paneel ziet er als volgt 
 uit: → 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+![](images/lcms-plot-handleiding-47_3.png)  
  
 Nadat de bevelvoerder de meetopdracht 
 geaccepteerd verschijnt er nu de knop 
@@ -267,30 +234,17 @@ de knop rechts onderin. Na het opslaan van
 meetresultaten kan op de knop onderin op de 
 opdracht afgerond en verstuurd worden. 
  
+![](images/lcms-plot-handleiding-47_4.jpg) 
  
+## 9.5  Locatie bij Meet- en Rijopdrachten
+
+In de module Meet- en Rijopdrachten verandert de locatieknop (onder de zoomknop). In deze module bevat de locatie GPS 4 stappen. De volgorde van functionaliteiten gaat van 1 naar 4 en dan weer terug naar 1. Bij inloggen start je bij 1.
  
- 
- 
- 
- 
-9.5  Locatie bij Meet- en Rijopdrachten 
-In de module Meet- en Rijopdrachten verandert de locatieknop (onder de zoomknop). In 
-deze module bevat de locatie GPS 4 stappen. De volgorde van functionaliteiten gaat van 1 
-naar 4 en dan weer terug naar 1. Bij inloggen start je bij 1. 
- 
- 
+![](images/lcms-plot-handleiding-47_2.png)
  
 De volgende iconen beteken het volgende: 
-1. 
-Blauw GPS symbool met punt in het midden: Blijf GPS positie volgen met kaart. 
-2. 
-Pijl symbool: je afgelegde route wordt als kruimelpad getoond. 
-3. 
-Grijs GPS symbool met een streep: GPS positie staat uit. 
-4. 
-Grijs GPS symbool zonder streep: eenmalig centreren op GPS positie. 
- 
-**47/52** 
- 
 
-* * *
+1. Blauw GPS symbool met punt in het midden: Blijf GPS positie volgen met kaart. 
+2. Pijl symbool: je afgelegde route wordt als kruimelpad getoond. 
+3. Grijs GPS symbool met een streep: GPS positie staat uit. 
+4. Grijs GPS symbool zonder streep: eenmalig centreren op GPS positie. 
