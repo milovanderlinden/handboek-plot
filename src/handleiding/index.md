@@ -2,8 +2,6 @@
 weight: -2
 ---
 
-![](images/lcms-plot-handleiding-1_1.jpg)
- 
 # Handleiding LCMS Plot 
  
 **Versie:** LCMS 2024 Q1 <br>
