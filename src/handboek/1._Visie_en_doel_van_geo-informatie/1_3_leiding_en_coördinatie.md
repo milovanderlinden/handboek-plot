@@ -1,3 +1,7 @@
+---
+title: 1.3 Leiding en coördinatie
+---
+
 ## 1.3 Leiding en coördinatie
 
 Het proces informatiemanagement is ondersteunend aan het proces leiding en coördinatie.

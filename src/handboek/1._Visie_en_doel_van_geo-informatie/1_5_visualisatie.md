@@ -1,3 +1,7 @@
+---
+title: 1.5 Visualisatie
+---
+
 ## 1.5 Visualisatie
 
 Voor de visualisatie van het geografisch en het tekstbeeld is een referentiedocument

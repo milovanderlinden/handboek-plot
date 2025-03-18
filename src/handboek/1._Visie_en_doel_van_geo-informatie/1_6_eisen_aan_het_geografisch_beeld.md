@@ -1,3 +1,7 @@
+---
+title: 1.6 Eisen aan het geografisch beeld
+---
+
 ## 1.6 Eisen aan het geografisch beeld
 
 In het Besluit Veiligheidsregio’s (versie 2023: artikel 10, 46-48) wordt gesproken over de minimale inhoud van een totaalbeeld en daarmee indirect ook van een geografisch beeld. Een

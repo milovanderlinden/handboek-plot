@@ -1,3 +1,7 @@
+---
+title: 1.4 Geografische Informatievoorziening
+---
+
 ## 1.4 Geografische Informatievoorziening
 
 Voor het werken met geografische informatie en het kunnen ontsluiten van __preparatieve

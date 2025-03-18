@@ -1,3 +1,7 @@
+---
+title: 1.2 Principes geografische informatie en netcentrisch werken
+---
+
 ## 1.2 Principes geografische informatie en netcentrisch werken
 
 Het spreekwoord “één plaatje zegt meer dan 1000 woorden” geeft aan waarom naast een

@@ -1,3 +1,7 @@
+---
+title: 1.7 Plot organisatie
+---
+
 ## 1.7 Plot organisatie
 
 De visie van het netcentrisch werken is dat de bronhouder van de informatie oftewel de

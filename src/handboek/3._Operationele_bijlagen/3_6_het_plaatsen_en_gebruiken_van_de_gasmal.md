@@ -1,3 +1,7 @@
+---
+title: 3.6 Het plaatsen en gebruiken van de Gasmal
+---
+
 ## 3.6 Het plaatsen en gebruiken van de Gasmal
 
 ### Doel
