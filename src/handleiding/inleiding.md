@@ -21,15 +21,13 @@ Wanneer plot geopend wordt zal men onderstaande scherm zichtbaar zijn.
 De volgende hoofdstukken komen aan bod en zijn aangeduid met een nummer in 
 bovenstaande scherm: 
 
-1. De menubalk 
-2. Kaart met tools  
-3. Tekenlagen, groepen, datalagen
-4. Legenda 
-5. Geavanceerde functies: Scenario’s, Logging, Analyses  
+1. De [menubalk](menubalk.md)
+2. [Kaart met tools](kaart_met_tools.md)
+3. [Tekenlagen, groepen en datalagen](tekenlagen.md)
+4. [Legenda](legenda.md)
+5. Geavanceerde functies: [scenario’s](geavanceerd_scenarios.md), [logging](geavanceerd_logging.md) en [analyse](geavanceerd_analyses.md)
  
 De volgende geavanceerde functionaliteiten zijn niet weergeven op bovenstaand schermafdruk. Deze functionaliteiten zijn niet direct te zien wanneer een plot gebruiker plot opent. Echter worden ze wel omschreven.
 
-- Meet- en rijopdrachten 
-- Import en export van kaartlagen. 
- 
-1. Met uitzondering opensimpletopo omdat die wordt behandeld in bij kaart met tools. 
+- [Meet- en rijopdrachten](geavanceerd_rijopdrachten.mp) 
+- Import en export van kaartlagen (met uitzondering van opensimpletopo omdat die wordt behandeld in bij kaart met tools).

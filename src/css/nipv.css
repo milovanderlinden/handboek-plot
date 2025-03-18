@@ -118,3 +118,15 @@ h3 {
 .wy-table-responsive table td, .wy-table-responsive table th {
   white-space: wrap;
 }
+
+/* Style all images with shadow and rounded corners, except those in tables */
+img:not(.wy-table-responsive table img) {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 4px;
+}
+
+/* Keep existing table image styles */
+.wy-table-responsive table td > img {
+  max-width: 36px;
+}
