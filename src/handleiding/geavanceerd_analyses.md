@@ -2,7 +2,7 @@
 weight: 8
 ---
 
-# 8  Geavanceerd: Analyses 
+# 8. Geavanceerd: Analyses 
 
 ![](images/lcms-plot-handleiding-38_2.png)
 ![](images/lcms-plot-handleiding-38_3.png)

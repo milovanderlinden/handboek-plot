@@ -2,7 +2,7 @@
 weight: 6
 ---
 
-# 6 Geavanceerd: Scenario’s
+# 6. Geavanceerd: Scenario’s
 ## 6.1  Inleiding 
 Scenario's zijn bedoeld om alternatieve situaties vast te leggen. Deze alternatieven kunnen 
 prognoses in de toekomst zijn of simpelweg andere mogelijkheden die uitgewerkt worden. 

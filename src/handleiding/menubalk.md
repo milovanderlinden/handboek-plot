@@ -1,8 +1,9 @@
 ---
 weight: 3
+title: 3. Menubalk
 ---
 
-# 3 Menubalk 
+# 3. Menubalk 
 
 De menubalk bestrijkt de gehele bovenkant van het scherm. Bij erg smalle schermen kan een deel van de opties onzichtbaar zijn. De menubalk bestaat uit meerdere onderdelen van links naar rechts:
 

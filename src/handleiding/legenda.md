@@ -1,7 +1,9 @@
 ---
 weight: 5
+title: 5. Legenda
 ---
-# 5 Legenda
+
+# 5. Legenda
 
 ![](images/lcms-plot-handleiding-33_2.jpg)
 ![](images/lcms-plot-handleiding-33_3.png)

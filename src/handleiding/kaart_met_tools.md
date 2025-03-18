@@ -1,8 +1,9 @@
 ---
 weight: 4
+title: 4. Kaart met tools
 ---
 
-# 4  Kaart met tools
+# 4. Kaart met tools
 
 ![](images/lcms-plot-handleiding-28_2.jpg)  
 ![](images/lcms-plot-handleiding-28_3.jpg)  

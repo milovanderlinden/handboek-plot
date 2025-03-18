@@ -2,7 +2,7 @@
 weight: 9
 ---
 
-# 9  Geavanceerd: meet- en rijopdrachten
+# 9. Geavanceerd: meet- en rijopdrachten
 
 ![](images/lcms-plot-handleiding-40_2.png)  
 ![](images/lcms-plot-handleiding-40_3.jpg)  

@@ -1,8 +1,9 @@
 ---
+title: 2. Tekenlagen, groepen, publiceren, datalagen
 weight: 2
 ---
 
-# 2 Tekenlagen, groepen, publiceren, datalagen
+# 2. Tekenlagen, groepen, publiceren, datalagen
  
 In het linker paneel wordt een overzicht bijgehouden van tekenlagen, datalagen en tekenobjecten op de kaart. Over het algemeen geeft het rechter paneel meer details over het onderdeel dat in het linker paneel is geactiveerd.
 

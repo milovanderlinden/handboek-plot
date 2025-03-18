@@ -2,7 +2,7 @@
 weight: 10
 ---
 
-# 10 Geavanceerd: Import en export van kaartlagen 
+# 10. Geavanceerd: Import en export van kaartlagen 
 
 ![](images/lcms-plot-handleiding-48_2.png)  
 ![](images/lcms-plot-handleiding-48_3.png)  

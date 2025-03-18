@@ -1,8 +1,9 @@
 ---
+title: 1. Inleiding
 weight: 1
 ---
 
-# 1 Inleiding
+# 1. Inleiding
 
 LCMS Plot geeft gebruikers de mogelijkheid om het graﬁsch beeld van een activiteit (bijvoorbeeld van een incident of evenement) te delen. Dit grafisch beeld wordt opgebouwd aan de hand van symbolen en objecten op een kaarten. Daar bij is het mogelijk om dit grafische beeld te delen tussen verschillende teams, organisaties en andere domeinen.
 

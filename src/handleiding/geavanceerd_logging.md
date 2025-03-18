@@ -2,7 +2,7 @@
 weight: 7
 ---
 
-# 7  Geavanceerd: Logging 
+# 7. Geavanceerd: Logging 
 
 
 ![](images/lcms-plot-handleiding-37_2.png)  
