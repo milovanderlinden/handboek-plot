@@ -24,7 +24,7 @@ Het bestand kan daar weer gewist worden. Ook is het mogelijk nog andere bestande
 
 ![](images/lcms-plot-handleiding-49_3.png)
  
-De objecten zitten nu in de kaartlaag en worden op de kaart getoond. Deze objecten kunnen op dezelfde manier bewerkt worden als zelf getekende objecten. 
+De objecten zitten nu in de kaartlaag en worden op de kaart getoond. Deze objecten kunnen op dezelfde manier bewerkt worden als zelf getekende objecten.
 
 ### 10.1.2 Objecten importeren uit een bestand met ﬁlter
 
@@ -35,9 +35,7 @@ Als er objectinformatie wordt meegeleverd met de kaartlaag dan wordt het formuli
 
 ![](images/lcms-plot-handleiding-49_2.png)  
  
-Het ﬁlter zorgt ervoor dat alleen objecten worden geladen die een attribuutwaarde hebben overeenkomstig het ﬁlter. Het ﬁlter 
-kan ook leeg gelaten worden; alle objecten tot een maximum van 
-100 worden geladen op de kaart. 
+Het ﬁlter zorgt ervoor dat alleen objecten worden geladen die een attribuutwaarde hebben overeenkomstig het ﬁlter. Het ﬁlter kan ook leeg gelaten worden; alle objecten tot een maximum van 100 worden geladen op de kaart.
  
 ### 10.1.3 Default symbool, kleur en label aangeven bij importeren
 
@@ -46,8 +44,7 @@ Een kleur en label kunnen worden meegeven bij het importeren van een object uit 
 ![](images/lcms-plot-handleiding-50_2.png)  
   
 ## 10.2 Import WFS als tekenlaag 
-Een WFS-datalaag kan worden geïmporteerd als een tekenlaag zodat deze aangepast kan 
-worden zonder te synchroniseren met de datalaag. 
+Een WFS-datalaag kan worden geïmporteerd als een tekenlaag zodat deze aangepast kan worden zonder te synchroniseren met de datalaag. 
 
 ![](images/lcms-plot-handleiding-50_3.jpg)   
  
@@ -57,8 +54,7 @@ Vul de URL van de WFS-server in en klik op ‘Capabilities ophalen’.
 
 ![](images/lcms-plot-handleiding-51_2.png)
  
-Als de server eigenschappen (capabilities) zijn opgehaald, worden de beschikbare lagen 
-getoond. 
+Als de server eigenschappen (capabilities) zijn opgehaald, worden de beschikbare lagen getoond. 
 
 ![](images/lcms-plot-handleiding-51_4.png)  
 
