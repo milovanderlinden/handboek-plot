@@ -27,19 +27,19 @@ gekozen kan worden:
  
 Voorbeeld van een andere achtergrondkaart; de luchtfoto: 
 
-![](images/lcms-plot-handleiding-29_3.jpg) 
+![](images/startbeeld-luchtfoto.png) 
 
 ## 4.2  Windroos
 
 De windroos geeft informatie over de windrichting en windsnelheid. Deze moet door de gebruiker zelf ingevuld worden. De windroos bevindt zich links onderin.
 
-![](images/lcms-plot-handleiding-30_3.jpg)
+![](images/windroos.png)
 
 ### 4.2.1 Windroos instellen
 
 Deze richting is aan te passen door op de windroos te klikken In dit scherm kan de windrichting en windsnelheid worden ingegeven. Daarnaast is er nog een optionele omschrijving toe te voegen.
 
-![](images/lcms-plot-handleiding-30_2.jpg) 
+![](images/windroos-instellen.png) 
  
 ### 4.2.2 Windroos en gasmallen en vuurhaarden
 
@@ -50,7 +50,7 @@ Naast het weergeven van de windrichting en windsnelheid heeft de windroos invloe
  
 ## 4.3  Zoom naar alle objecten
 
-Linksboven op de kaart staat de volgende knop: ![](images/lcms-plot-handleiding-31_3.jpg)  
+Linksboven op de kaart staat de volgende knop: ![](images/zoom-alles-knop.png)  
 
 Wanneer deze knop wordt geselecteerd zoomt de kaart naar alle getekende objecten op de 
 kaart. Afhankelijk van de ligging van de objecten kan dit een groot of klein deel van de kaart 
@@ -62,13 +62,13 @@ Er is de mogelijkheid om op de kaart oppervlakte of afstand te meten. Deze knop
 is rechts onderin te vinden. Hieronder is te zien dat dat de oppervlakte meten is 
 geselecteerd. De knop eronder is afstand meten. 
 
-![](images/lcms-plot-handleiding-31_4.jpg)  
+![](images/meten-knoppen.png)  
 
  
 Om de resultaten van de meting weg te halen klik op de actieve blauwe oppervlakte- of 
 afstand meten knop. 
  
-![](images/lcms-plot-handleiding-31_2.jpg)
+![](images/meten-knoppen_lineaal-actief.png)
  
 Een voorbeeld hoe dit er uitzien bij afstand meten. 
  
