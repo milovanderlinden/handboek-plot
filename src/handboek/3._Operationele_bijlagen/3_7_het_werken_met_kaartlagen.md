@@ -10,6 +10,7 @@ om thematisch te ordenen. Dit betekent dat het geografisch beeld beheerd kan wor
 informatie te tonen of juist niet te tonen.
 
 Het gebruik van thematische lagen geeft de mogelijkheid om:
+
 - gegevens te koppelen aan een functie;
 - te koppelen aan een bronhouder en daarmee het onderhoud organiseren;
 - te zoeken en filteren;

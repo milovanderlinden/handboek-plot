@@ -13,16 +13,17 @@ De volgende knoppen zijn te vinden op de kaart:
 4. Oppervlakte meten en afstand meten. 
 5. Zoomen en locatie.
 
-![](images/lcms-plot-handleiding-28_2.jpg) 
+![](images/startbeeld-plot-annotated.png) 
 
 ## 4.1 Achtergrondkaart
-Binnen Plot kunnen meerdere achtergrondkaarten worden gekozen. Dit kan in het linker paneel onderaan: 
-![](images/lcms-plot-handleiding-28_3.jpg)  
+Binnen Plot kunnen meerdere achtergrondkaarten worden gekozen. Dit kan in het linker paneel onderaan:
+
+![](images/ondergrond-selecteren.png)  
 
 Na het klikken op de Basiskaart, opent een uitrolmenu waar een andere achtergrond 
 gekozen kan worden: 
 
-![](images/lcms-plot-handleiding-29_2.jpg) 
+![](images/ondergronden.png) 
  
 Voorbeeld van een andere achtergrondkaart; de luchtfoto: 
 
