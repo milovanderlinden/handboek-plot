@@ -85,20 +85,8 @@ De kaart wordt in principe bediend door middel van de muisknoppen en -wiel.
  
 ### 4.5.2 Locatie
 
-Onder de zoomknoppen bevindt zich de locatieknop. Bij inschakelen zoomt de kaart naar de 
-huidige locatie. Plot bepaalt de locatie op basis van GPS en Wiﬁ (IP adres).  
-Wanneer hier problemen zijn controleer de 
-instellingen van de browser. Als het apparaat 
-waarop gewerkt geen gps signaal heeft, wordt de 
-locatie bepaald op basis van IP adres. Dit is niet 
-nauwkeurig, zeker niet als men ook werkt in een 
-virtuele omgeving (zoals bijvoorbeeld Citrix). 
+Onder de zoomknoppen bevindt zich de locatieknop ![](images/locatie-uit.png). Bij inschakelen ![](images/locatie-aan.png)zoomt de kaart naar de huidige locatie. Plot bepaalt de locatie op basis van GPS en Wiﬁ (IP adres). Wanneer hier problemen zijn controleer de instellingen van de browser. Als het apparaat waarop gewerkt geen gps signaal heeft, wordt de locatie bepaald op basis van IP adres. Dit is niet nauwkeurig, zeker niet als men ook werkt in een virtuele omgeving (zoals bijvoorbeeld Citrix). 
 
-![](images/lcms-plot-handleiding-32_2.jpg)  
-
-Er wordt een marker op die locatie geplaatst en 
-wordt continu geüpdatet met de actuele positie. Als 
-de locatie aan staat en er wordt op geklikt dan wordt 
-de marker weggehaald. 
+Er wordt een marker op die locatie geplaatst en wordt continu geüpdatet met de actuele positie. Als de locatie aan staat en er wordt op geklikt dan wordt de marker weggehaald. 
  
 In het hoofdstuk [Geavanceerd: meet- en rijopdrachten](geavanceerd_rijopdrachten.md) worden de relevante locatiefuncties uitgelegd voor Meet- en rijopdrachten. 

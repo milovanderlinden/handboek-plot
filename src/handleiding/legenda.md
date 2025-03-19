@@ -22,7 +22,7 @@ halen. Dit kan op twee manieren:
 2. klik op het object in de tekenlagen tab in het 
 linker paneel en ga vervolgens naar eigenschappen in het rechter paneel, zet selectievak uit voor Zichtbaar in legenda. 
 
-![](images/lcms-plot-handleiding-33_2.jpg)
+![](images/legenda-tekenlagen.png)
 
 Als een legenda-item is uitgezet in de legenda zelf, 
 dan kan dit item alleen weer aangezet worden via de 
@@ -41,4 +41,4 @@ getoond worden.
 Voorbeeld van een legenda van de datalaag: “Witte Kaart 
 GHOR”.
 
-![](images/lcms-plot-handleiding-33_3.png)
+![](images/legenda-datalagen.png)
