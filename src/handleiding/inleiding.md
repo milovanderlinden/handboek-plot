@@ -17,7 +17,7 @@ Er is voor Plot een e-learning gemaakt. Deze cursus is geschikt voor beginnend L
 ## 1.2 Indeling document
 
 Wanneer plot geopend wordt zal men onderstaande scherm zichtbaar zijn.
-![](images/lcms-plot-handleiding-5_2.jpg)
+![](images/indeling-plot.png)
 
 De volgende hoofdstukken komen aan bod en zijn aangeduid met een nummer in 
 bovenstaande scherm: 
