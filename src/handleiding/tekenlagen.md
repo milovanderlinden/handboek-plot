@@ -74,24 +74,24 @@ Als twee gebruikers tegelijkertijd in verschillende tekenlaag publiceren, dan kr
  
 Publiceren gaat per tekenlaag en de knop om te publiceren staat in de eigenschappen van een tekenlaag in het rechter paneel.
 
-![](images/lcms-plot-handleiding-9_2.jpg) 
+![](images/publiceren-1.png) 
  
 Indien een tekenlaag (nog) niet gepubliceerd is wordt dit aangegeven door een oranje kleur van de laag naam. Door het klikken op de knop Publiceren wordt de tekenlaag gepubliceerd. De knop wordt uitgegrijst en de oranje kleur wordt weer normaal zwart. 
  
-![](images/lcms-plot-handleiding-10_2.jpg) 
+![](images/publiceren-2.png) 
 
 Zodra daarna weer getekend wordt de 
 kaartlaag weer oranje van kleur en kan de 
 Publiceren knop weer geklikt worden. 
 Publiceren van een tekenlaag is daarnaast mogelijk door direct naast de tekenlaag op het "upload" icoontje te klikken.
 
-![](images/lcms-plot-handleiding-10_5.png) 
+![](images/direct-publiceren.png) 
 
 ### 2.2.3 Verlaten van plot
 
 Bij uitloggen of verlaten van een pagina in LCMS Plot verschijnt er een pop-up scherm met uitleg dat bij verlaten wijzigingen niet worden opgeslagen.
 
-![](images/lcms-plot-handleiding-10_3.png)
+![](images/plot-niet-opgeslagen.png)
 
 ![](images/lcms-plot-handleiding-10_4.png)
  
@@ -101,7 +101,7 @@ Bij uitloggen of verlaten van een pagina in LCMS Plot verschijnt er een pop-up s
 
 Naast tekenlagen kan plot verrijkt worden datalagen. Dit zijn datalagen van bijvoorbeeld Geo4OOV. De geo-server van Geo4OOV staat ingesteld als de standaard server, maar het is ook mogelijk om datalagen van andere bronnen zijn zoals PDOK of een eigen geo-server toe te voegen. 
 
-![](images/lcms-plot-handleiding-11_2.png)
+![](images/datalagen-geselecteerd.png)
 
 Om deze datalagen te kunnen toevoegen is het noodzakelijk om de volgende gegevens te hebben: 
 
@@ -109,11 +109,11 @@ Om deze datalagen te kunnen toevoegen is het noodzakelijk om de volgende gegeven
 2. URL van de Geo-server 
 3. eventueel gebruikersnaam en wachtwoord als de service dat vereist
  
-Datalagen kunnen toegevoegd worden door in het linker paneel, bovenaan op ‘Datalagen’ te klikken en vervolgens op het plusteken.
+Datalagen kunnen toegevoegd worden door in het linker paneel, bovenaan op ‘Datalagen’ te klikken en vervolgens op het plusteken ![](images/laag-toevoegen.png).
 
 In het volgende paneel kunnen de hierboven genoemde gegevens invullen worden. Als standaard is de URL van de Geo4OOV-server ingesteld. Deze URL kan vervangen worden voor bijvoorbeeld de URL van de eigen organisatie. Indien nodig moeten een gebruikersnaam en wachtwoord ingevuld worden.
 
-![](images/lcms-plot-handleiding-11_3.png)
+![](images/datalaag-toevoegen.png)
 
 Door op ‘**Haal capabilities op**’ te klikken, worden de eigenschappen en de beschikbare datalagen van de server opgevraagd.
 
@@ -121,20 +121,20 @@ Door op ‘**Haal capabilities op**’ te klikken, worden de eigenschappen en de
 Via ‘**Zoek**’ kan er in de datalagen op de zoekterm worden gezocht. De zoekterm komt overheen met de 
 categorieën en onderliggende datalagen. Hierbij worden de onderliggende datalagen sneller zichtbaar om toe te voegen.
 
-![](images/lcms-plot-handleiding-12_5.png)
+![](images/datalaag-agrarisch.png)
 
 Door de gewenste laag of lagen aan te vinken en vervolgens op de knop ‘**Voeg toe**’ te klikken wordt de datalaag toegevoegd aan het plot.
 
-![](images/lcms-plot-handleiding-12_2.png)
+![](images/datalaag-gemeentegebied.png)
 
 In dit voorbeeld is de geselecteerde laag ‘**Gemeentegebied**’ toegevoegd aan de kaart.
 
-![](images/lcms-plot-handleiding-12_3.jpg)
+![](images/datalaag-gemeentegebied-kaart.png)
 
-De datalagen kunnen in een ‘**Groep**’ worden geplaatst. Door op het zwarte mapje te klikken, de groep in het rechter paneel 
+De datalagen kunnen in een ‘**Groep**’ worden geplaatst. Door op het mapje ![](images/nieuwe-groep.png) te klikken, de groep in het rechter paneel 
 een naam te geven en vervolgens de datalaag naar de map te slepen.
 
-![](images/lcms-plot-handleiding-12_4.jpg)
+![](images/datalagen-groep.png)
 
 ### 2.3.2 (De)selecteren alle Datalagen
 
@@ -144,14 +144,14 @@ De datalagen worden op dezelfde manier (de)geselecteerd als de tekenlagen. Zie h
 
 Bij iedere toegevoegde datalagen is de status zichtbaar voor de datalaag.
 
-- Laden: Er draait een rondje voor de datalaag; de datalaag wordt geladen. 
+- Laden: Er draait een ![](images/laadrondje.png) rondje voor de datalaag; de datalaag wordt geladen. 
 
-![](images/lcms-plot-handleiding-13_2.png)
+![](images/datalaag-laden.png)
 
 - Geladen: Het laadicoon (zie bovenstaande afbeelding) is niet meer zichtbaar, de datalaag is geladen. 
-- Niet beschikbaar: De datalaag is niet beschikbaar (geen connectie met de geo-server).
+- Niet beschikbaar: ![](images/niet-beschikbaar.png) De datalaag is niet beschikbaar (geen connectie met de geo-server).
 
-![](images/lcms-plot-handleiding-13_3.png) 
+![](images/datalaag-niet-beschikbaar.png) 
  
 ### 2.3.4 Realtime datalagen
 
@@ -160,19 +160,15 @@ geladen zoals hiervoor beschreven en geselecteerd is, kan in het rechtertabblad 
 Eigenschappen worden aangevinkt dat het een realtime datalaag betreft. De kaartlaag wordt 
 dan automatisch elke 10 seconden ververst. 
 
-![](images/lcms-plot-handleiding-14_2.jpg)
+![](images/realtime-datalaag.png)
  
 ### 2.3.5 Verwijderen datalagen
 
 Datalagen kunnen ook weer verwijderd worden. Selecteer de datalaag en klik op de 
-prullenbak rechts naast de naam. 
+prullenbak ![](images/prullenbak.png) rechts naast de naam. 
  
 ### 2.3.6 Objectinformatie datalaag
 
-Wanneer een datalaag is toegevoegd, bied plot de mogelijkheid objectinformatie te laten 
-zien. Dit houdt in dat een klik/touch op de kaart standaard de objectinformatie probeert op te 
-vragen van de aangeklikte locatie. De informatie zal in een pop-up venster worden 
-weergeven, mochten er meerdere resultaten zijn op een locatie dan worden deze onder 
-elkaar weergegeven. Een voorbeeld hiervan is een verblijfsobject.
+Wanneer een datalaag is toegevoegd, bied plot de mogelijkheid objectinformatie te laten zien. Dit houdt in dat een klik/touch op de kaart standaard de objectinformatie probeert op te vragen van de aangeklikte locatie. De informatie zal in een pop-up venster worden weergeven, mochten er meerdere resultaten zijn op een locatie dan worden deze onder elkaar weergegeven.
 
-![](images/lcms-plot-handleiding-14_3.jpg)
+![](images/object-informatie.png)
