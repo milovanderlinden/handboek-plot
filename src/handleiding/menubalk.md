@@ -103,77 +103,113 @@ In het eigenschappen venster zijn de volgende opties beschikbaar:
 
 ### 3.2.2 Sectormal, Vuurhaard, Gasmal, Raster, Spline en Foto
 
-Deze complexe objecten kunnen getekend worden door op het vierkant te klikken en op het menu-item meer te klikken of door gebruik te maken van de sneltoetsen.
+Voor meer complexe of specifieke objecten zijn speciale tekenfuncties beschikbaar. Klik op de ![Knop, tekenen](images/tekenen.png) tekenknop, en vervolgens op _meer_. 
+
+> Er kan ook gebruik gemaakt worden van de sneltoetsen **G** voor raster, **V** voor spline en **F** voor foto.
  
-**Sectormal** In het veld ‘Sector(en)’ worden de sectoren gescheiden door middel van een komma. Er kan een keuze gemaakt worden van 1 tot en met 12 sectoren. Onder Segment wordt ingevuld tot welk segment de sectormal moet worden gevuld (A-E). De bijbehorende afstanden worden automatisch bepaald op basis van de straal van de sectormal.
+#### Sectormal
 
-![](images/lcms-plot-handleiding-19_2.jpg)
+In het veld ‘Sector(en)’ worden de sectoren gescheiden door middel van een komma. Er kan een keuze gemaakt worden van 1 tot en met 12 sectoren. Onder Segment wordt ingevuld tot welk segment de sectormal moet worden gevuld (A-E). De bijbehorende afstanden worden automatisch bepaald op basis van de straal van de sectormal.
 
-**Vuurhaard** 
-De windrichting en de windsnelheid kunnen voor de vuurhaard en gasmal worden ingevuld. Het is ook mogelijk aan te vinken dat de richting en snelheid overgenomen moeten worden van de windroos, welke linksonder op de kaart ingesteld kan worden. **Let op:** als de windroos later wordt aangepast, dan wordt ook deze vuurhaard aangepast!
+![](images/sectormal.png)
 
-![](images/lcms-plot-handleiding-20_2.jpg)
+![](images/sectormal-eigenschappen.png)
+
+#### Vuurhaard
+De windrichting en de windsnelheid kunnen voor de vuurhaard en gasmal worden ingevuld. Het is ook mogelijk aan te vinken dat de richting en snelheid overgenomen moeten worden van de windroos, welke linksonder op de kaart ingesteld kan worden. 
+
+![](images/vuurhaard.png)
+
+![](images/vuurhaard-eigenschappen.png)
+
+> **Let op:** als windrichting van de windroos later wordt aangepast, dan wordt ook deze vuurhaard aangepast!
  
-**Gasmal** 
-De malkleur, het malnummer en windrichting, kunnen voor de gasmal worden ingevuld. Het is ook mogelijk aan te vinken dat de windrichting moet worden overgenomen van de windroos, welke linksonder op de kaart ingesteld kan worden. **Let op:** als de windroos later wordt aangepast, dan wordt ook deze gasmal aangepast!
+#### Gasmal
 
-![](images/lcms-plot-handleiding-20_3.jpg)
- 
-**Spline** 
-Voor het tekenen van een spline (vrij tekenen) kan een voorbeeld uit de stamkaart worden gekozen. 
- 
-**Foto** 
-Naast objecten kunnen ook foto's op de kaart geplaatst worden. Na het kiezen van foto uit het menu of de gebruikte sneltoets 
-wordt in de kaart de locatie aangeklikt waar de foto geplaatst moet worden. Hierna opent een pop-up scherm waar de foto kan worden toegevoegd (max 5mb) en simpele bewerking kan worden gedaan. Na opslaan wordt een camera op de kaart geplaatst en de foto zelf is zichtbaar bij de eigenschappen van het object.
+De malkleur, het malnummer en windrichting, kunnen voor de gasmal worden ingevuld. Het is ook mogelijk aan te vinken dat de windrichting moet worden overgenomen van de windroos, welke linksonder op de kaart ingesteld kan worden. 
 
-![](images/lcms-plot-handleiding-20_4.jpg)
+![](images/gasmal.png)
+
+![](images/gasmal-eigenschappen.png)
+
+> **Let op:** als de windrichting van de windroos later wordt aangepast, dan wordt ook deze gasmal aangepast!
+
+#### Raster
+
+Een raster is beschikbaar zodat deze bijvoorbeeld bij evenementen of activiteiten waarbij meerdere instanties betrokken zijn in Plot gezet kan worden. Door  en hierdoor de locatie snel kan worden aangewezen. Er kan **maximaal één raster** geplaatst worden in Plot. Het maximaal aantal sectoren in een raster is 15.000. De eigenschappen van een raster kunnen aangepast worden.
+
+![](images/kaartbeeld-raster.png)
+
+![](images/raster-eigenschappen.png.png)
+
+> In de bovenstaande afbeelding zijn niet alle eigenschappen zichtbaar. Door naar beneden te scrollen komen de opties _Coördinaten_, _Rotatie_ en beschrijving ook in beeld.
 
 
-**Raster voor evenementen** 
-Het object raster is beschikbaar zodat deze bij evenementen in Plot gezet kan worden en hierdoor de locatie snel kan worden aangewezen. Er kan **maximaal één raster** geplaatst worden in Plot. Het maximaal aantal sectoren in een raster is 15.000. De eigenschappen van een raster kunnen aangepast worden. 
-
-![](images/lcms-plot-handleiding-21_2.jpg)
-
-- **Object naam**: hier staat standaard “Raster 1” en kan aangepast worden.
+- **Object naam**: hier staat standaard “Raster 1”, dit kan aangepast worden.
 - **Zichtbaar in legenda**: staat standaard aan.
-- **Tekstlabel:** het raster wordt op een standaard manier gelabeld. Van het tekstlabel in het raster is het volgende in te stellen:
-  - de tekstgrootte;
-  - rotatie;
-  - tekst kleur;
-  - tekstvak kleur;
-  - lijn transparantie;
-  - lijn dikte;
-  - lijn stijl.
+- **Tekstlabel:** Van het tekstlabel in het raster is het volgende in te stellen:
+  - Tekstgrootte;
+  - Rotatie;
+  - Tekst kleuren;
+  - Tekstvak kleuren;
+  - Lijn transparantie, dikte en stijl.
 - **Raster**: de grootte van de vakken kan aangepast worden in meters, aantal rijen en aantal kolommen.
-- **Coördinaten**: RijksDriehoek X- en Y-coördinaat kan worden aangegeven. WFS84 lengtegraad en breedtegraad wordt hier ook ingevuld.
-- **Roteer object**: hiermee kan het object geroteerd worden. Het tekstlabel roteert niet met het raster mee, dit moeten bij de rotatie onder tekstlabel.
-- **Undo-redo** knoppen werken, waarbij de kanttekening moet zijn dat als er gebruik wordt gemaakt van de rotatie de undo-redo minimaal zichtbaar is, aangezien elk rotatiepunt dan wordt gepakt.
+- **Coördinaten**: De exacte X- en Y-coördinaat van het Rijksdriehoekstelsel of de WGS84 (GPS) lengte- en breedtegraad kunnen handmatig worden ingegeven.
+
+>  De coördinaten veranderen wanneer het raster wordt verplaatst op de kaart. Indien WGS84 coördinaten handmatig worden ingevoerd zullen de Rijksdriehoekstelsel coördinaten mee veranderen en vice versa
+
+- **Rotatie**: hiermee kan het rasrer geroteerd worden. Het tekstlabel roteert niet met het raster mee, dit moeten bij de rotatie onder tekstlabel.
+
+#### Spline
+
+Voor het tekenen van een spline (vrij tekenen) kan een voorbeeld uit de stamkaart worden gekozen. 
+
+![](images/spline.png)
+
+![](images/spline-eigenschappen.png)
+
+> Een spline heeft dezelfde eigenschappen als de lijn.
+ 
+#### Foto
+
+Naast objecten kunnen ook foto's op de kaart geplaatst worden. Na het kiezen van foto uit het menu of de sneltoets **F** wordt in de kaart de locatie aangeklikt waar de foto geplaatst moet worden. Hierna opent een dialoog waarmee de foto kan worden toegevoegd.
+
+![](images/foto-dialoog.png)
+
+> In de dialoog is te zien hoe groot de foto mag zijn, maximaal 5 MB.
+
+![](images/foto-dialoog-met-foto.png)
+
+> In het voorbeeld wordt de afbeelding gebruikt van de AA1919 carsh site van [wikimedia](https://commons.wikimedia.org/wiki/File:AA191-crash-site.png). Dit is een licentievrije foto.
+
+Nadat een foto is bijgevoegd kunnen er nog bewerkingen worden uitgevoerd zoals roteren en het maken van een uitsnede.
+
+![](images/foto-dialoog-bewerken.png)
+
+Nadat de foto is opgeslagen verschijnt een camera-icoon op de kaart geplaatst.
+
+![](images/kaartbeeld-met-foto.png)
+
+![](images/foto-eigenschappen.png)
+
+ De foto zelf wordt getoond in de eigenschappen en kan daar eventueel worden getoond.
 
 ### 3.2.3 Incidentlocatie en symbolen
 
-In vorige paragrafen is uitleg gegeven over de eenvoudige en complexe 
-objecten onder het (vierkant knop).
 In deze paragraaf wordt er uitleg gegeven over de **incidentlocatie** en 
-andere symbolen (**ster knop**). 
+andere symbolen die onder de ![](images/ster.png) **ster knop** beschikbaar zijn. Wanneer op de ster knop wordt gedrukt verschijnt in het rechterpaneel het _Symbolen_ venster.
 
-![](images/lcms-plot-handleiding-22_2.png)
- 
-Standaard is het incidentlocatie-symbool geselecteerd. Echter kan ook meteen in het rechter paneel een ander symbool gekozen worden.
+![](images/symbolen-venster.png)
 
-![](images/lcms-plot-handleiding-22_3.jpg)
- 
-Onder ‘Kies een categorie’ zit een dropdown menu waar alle disciplines staan en één voor één geselecteerd kunnen worden: 
-Verder kan er gezocht worden op naam door deze in te vullen bij “Filter Symbolen”. Voor de (zoek)benaming van deze symbolen kan je over de symbolen heen ‘hoveren’. 
- 
-Door op de pijl in de menubalk te klikken of gebruik te maken van de sneltoets escape is het mogelijk om te stoppen met iconen plaatsen.
- 
-Het symbool kan weer geselecteerd worden om de eigenschappen te 
+> Standaard is het incidentlocatie-symbool geselecteerd. Echter kan ook meteen in het rechter paneel een ander symbool gekozen worden.
+
+Onder ‘Kies een categorie’ zit een selectie menu waar alle [afzenders](../symbolenset/index.md#afzenders) staan en één voor één geselecteerd kunnen worden: 
+Verder kan er gezocht worden op naam door deze in te vullen bij “Filter Symbolen”. Voor de (zoek)benaming van deze symbolen kan je over de symbolen heen ‘hoveren’. Door op de pijl in de menubalk te klikken of gebruik te maken van de sneltoets escape is het mogelijk om te stoppen met iconen plaatsen. Het symbool kan weer geselecteerd worden om de eigenschappen te 
 veranderen of te verplaatsen.
 
-![](images/lcms-plot-handleiding-22_4.png)
+![](images/symbool-eigenschappen.png)
  
-Een eigenschap van een incidentlocatie/symbool die nadere uitleg vergt 
-is:
+Extra toelichting op de opties:
 
 - **Zichtbaar in legenda**: Bepaalt of dit object in de legenda wordt opgenomen. 
 - **Object meeschalen**: Wanneer object meeschalen is aangevinkt krijgt het symbool een vaste grootte. Schalen van symbolen/tekst **staan standaard uit**, zodat de symbolen zonder te ver in te zoomen al duidelijk zijn.
@@ -184,32 +220,31 @@ is:
 
 In tekenlagen van Plot staat schalen van symbolen/tekst **standaard uit**, zodat de symbolen bij ver uitzoomen duidelijk zichtbaar blijven. 
 
-![](images/lcms-plot-handleiding-23_2.jpg)
+![](images/laag-schalen-uit.png)
 
 Dit is ook zichtbaar wanneer een symbolen/tekst geplot is. Zodra er op een symbolen/tekst aan de linker paneel geklikt wordt, zijn de ‘Eigenschappen’ en ‘Legenda’ van het symbool zichtbaar. In dit paneel staat het vinkje voor ‘Object meeschalen’ standaard uit.
 
-![](images/lcms-plot-handleiding-23_3.jpg)
+![](images/object-meeschalen-uit.png)
 
 ### 3.2.5 Verplaatsen objecten over tekenlagen
 
-Het is mogelijk om objecten van een tekenlaag naar een andere tekenlaag te verslepen. Klik en sleep het object in het 
-linker paneel naar een andere tekenlaag boven in het in het 
-paneel verplaatst. 
+Het is mogelijk om objecten van een tekenlaag naar een andere tekenlaag te verslepen. Klik en sleep het object in het linker paneel naar een andere tekenlaag boven in het in het paneel verplaatst. 
 
-![](images/lcms-plot-handleiding-24_2.png)
+![](images/verplaats-object.gif)
  
 ## 3.3 Bewerkmenu 
 
-Met deze functie is het mogelijk om 
+Er zijn een aantal functies beschikbaar in de menubalk onder de knop ![Knop, bewerken](images/bewerken.png).
 
-- symbolen en objecten kunnen gekopieerd en geplakt worden 
-- de uitgevoerde actie ongedaan maken (undo) en opnieuw uitgevoerd worden (redo).
+![](images/bewerken-uitgeklapt.png)
+
+- de uitgevoerde actie ongedaan maken _(undo)_ of opnieuw uitvoeren _(redo)_
+- symbolen en objecten kopiëren, knippen of plakken
+- symbolen verwijderen
+
+> Als een gebruiker per ongeluk iets verplaatst dan kan deze met de knop met pijltjes maximaal 5 stappen terug (undo) en vooruit (redo). De sneltoetsen Ctrl-Z (undo) en Ctrl-Y (redo) zijn hier ook voor beschikbaar. 
  
-Als een gebruiker per ongeluk een object e.d. verplaatst dan kan deze met de knop met 
-pijltjes 5 stappen maximaal terug (undo) en vooruit (redo) worden gezet. 
-De sneltoetsen Ctrl-Z (undo) en Ctrl-Y (redo) zijn hier ook voor beschikbaar. 
- 
-De stappen terug en vooruit zijn alleen voor wijzigingen attributen op: 
+De stappen terug en vooruit zijn beperkt en hebben enkel effect op: 
  
 | Object | Acties | Undo | Redo |
 | --- | --- | --- | --- |
@@ -218,39 +253,26 @@ De stappen terug en vooruit zijn alleen voor wijzigingen attributen op:
 | Vuurhaard, gasmal | plaatsen, verplaatsen, handmatig wijzigen, kopiëren, knippen, plakken en verwijderen | Ja | Ja |
 | Foto | plaatsen, verplaatsen, kopiëren, knippen, plakken en verwijderen | Ja | Ja |
 
-![](images/lcms-plot-handleiding-24_3.png)
-
 ## 3.4 Zoeken 
 
-Via de zoekfunctie is de locatie op te vragen. Het zoekvenster kan geopend worden door de 
-loep in de balk te selecteren.
+Via de zoekfunctie ![Knop, vergrootglas, zoeken](images/zoeken.png) in de menubalk kan op verschillende manieren worden gezocht wat uiteindelijk het kaartbeeld naar de gewenste locatie zal verplaatsen.
 
-![](images/lcms-plot-handleiding-25_2.png)
- 
 ### 3.4.1 Adres
 
-De locatie wordt opgevraagd bij een algemene geocodeerservice van de overheid (PDOK). 
-Er worden meerdere opties weergegeven indien beschikbaar, gerangschikt naar de 
-dichtstbijzijnde locatie. Door op een van de opties te klikken zoomt de kaart naar die locatie. 
+De locatie wordt opgevraagd bij de [PDOK Locatieserver](https://www.pdok.nl/restful-api/-/article/pdok-locatieserver-1), een algemene geocodeerservice van de overheid (PDOK). Er worden meerdere opties weergegeven indien beschikbaar, gerangschikt naar de dichtstbijzijnde locatie. Door op een van de opties te klikken zoomt de kaart naar die locatie. 
 
 ### 3.4.2 Rijksdriehoek
 
-Hiernaast kun je ook Rijksdriehoek (RD)-coördinaten invoeren, bv: 83800,435600. De 
-zoekfunctie geeft dan de optie: XY-coördinaat (83800,435600). Als er geklikt wordt op deze 
+Hiernaast kun je ook Rijksdriehoek (RD)-coördinaten invoeren, bv: `83800,435600`. De zoekfunctie geeft dan de optie: `XY-coördinaat (83800,435600)`. Als er geklikt wordt op deze 
 optie zoomt de kaart daar naartoe. 
 
 ### 3.4.3 WGS84
 
-Er kan gezocht worden op WGS84 (GPS)-coördinaten in volgende format: 52.1408, 5.0444. 
-Als er geklikt wordt op deze optie zoomt de kaart daar naartoe. 
+Er kan gezocht worden op WGS84 (GPS)-coördinaten in volgende format: `52.1408, 5.0444`. Als er geklikt wordt op deze optie zoomt de kaart daar naartoe. 
 
 ### 3.4.4 Hectometerpaal
 
-Ook kan er gezocht worden op hectometerpalen met volgend format snelweg 
-hectometernummer. Bijvoorbeeld je zoek A12 hectometerpaal 124: dan zoek je A12 1240. 
-Als men klikt op Hectometerpaal zoomt de kaart naar de locatie. Indien dit niet goed werkt 
-dient de locatie uit worden gezet in de browser. De zoeklocatie wordt op de kaart 
-gemarkeerd. Door op het kruisje te klikken sluit het zoekpaneel.
+Ook kan er gezocht worden op hectometerpalen met volgend format snelweg hectometernummer. Bijvoorbeeld je zoek A12 hectometerpaal 124: dan zoek je `A12 1240`. Als men klikt op Hectometerpaal zoomt de kaart naar de locatie. Indien dit niet goed werkt dient de locatie uit worden gezet in de browser. De zoeklocatie wordt op de kaart gemarkeerd. Door op het kruisje te klikken sluit het zoekpaneel.
 
 ![](images/lcms-plot-handleiding-25_4.png)
 
@@ -258,31 +280,15 @@ gemarkeerd. Door op het kruisje te klikken sluit het zoekpaneel.
 
 Met het instellen van het situatiebeeld geeft een gebruiker aan wat gebruikers zonder plotrechten standaard zien in het graﬁsch beeld van de activiteit.
  
-### 3.5.1 Schakelaar tussen tekenen en instellen situatiebeeld
+### 3.5.1 Schakelen tussen tekenen en Situatiebeeld instellen
 
-De applicatie heeft rechts bovenin een schakelaar met twee standen: tekenen en instellen situatiebeeld. De applicatie start standaard in teken-modus op.
+De applicatie heeft rechts bovenin een schakelaar met twee standen: "Tekenen" en "Situatiebeeld instellen". De applicatie start standaard met "Tekenen" geselecteerd.
 
 ![](images/lcms-plot-handleiding-25_3.png)
 
-Na het selecteren ‘situatiebeeld instellen’ opent plot in een vereenvoudigde vorm. De optie 
-om tekenlagen en groepen toe te voegen verdwijnt, en de titel ‘situatiebeeld instellen’ 
-verschijnt links (zie schermafbeelding hieronder). 
+Na het selecteren van ‘Situatiebeeld instellen’ opent plot in een vereenvoudigde vorm. De optie om tekenlagen en groepen toe te voegen verdwijnt, en de titel ‘Situatiebeeld instellen’ verschijnt links (zie schermafbeelding hieronder). 
  
-Het is mogelijk om de tekenlagen en de datalagen aan te vinken die in het situatiebeeld 
-standaard zichtbaar moet zijn. Alleen gepubliceerde kaartlagen zijn hier zichtbaar. Hieronder 
-is bijvoorbeeld te zien dat de tekenlaag “cirkellaag” is uitgevinkt en niet zichtbaar is.
+Het is mogelijk om de tekenlagen en de datalagen aan te vinken die in het situatiebeeld standaard zichtbaar moet zijn. Alleen gepubliceerde kaartlagen zijn hier zichtbaar.
 
-![](images/lcms-plot-handleiding-26_2.jpg)
+![](images/situatiebeeld-instellen.png)
  
-### 3.5.2 Situatiebeeld instellen vanuit tekenen
-
-De gebruiker kan naast het instellen van het situatiebeeld ook bij de tekenlaag het situatiebeeld standaard zichtbaar maken.
-
-![](images/lcms-plot-handleiding-26_3.jpg)
-
-### 3.5.3 Grafische beeld in het situatiebeeld
-
-In voorgaande paragraven is te zien hoe het situatiebeeld ingesteld kan worden. In het onderstaande schermafbeelding is te zien wat een gebruiker zonder plotrechten ziet. Standaard zijn de panelen ingeklapt. In dit voorbeeld hieronder is het linker paneel 
-opengeklapt om aan te tonen dat de tekenlaag “cirkellaag” standaard is uitgevinkt.
-
-![](images/lcms-plot-handleiding-27_2.jpg)
