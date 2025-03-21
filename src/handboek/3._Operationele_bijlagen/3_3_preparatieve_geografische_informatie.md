@@ -1,8 +1,4 @@
----
-title: 3.3 Preparatieve geografische informatie
----
-
-## 3.3 Preparatieve geografische informatie
+# 3.3 Preparatieve geografische informatie
 
 ### Preparatie informatie in LCMS
 

@@ -7,29 +7,29 @@ title: 3. Menubalk
 
 De menubalk bestrijkt de gehele bovenkant van het scherm.
 
-![](images/menubalk.png)
+![Menubalk, lang](images/menubalk.png)
 
 Bij erg smalle schermen zal een deel van de opties onzichtbaar zijn.
 
-![](images/menubalk_klein.png)
+![Menubalk, smal](images/menubalk_klein.png)
 
 De menubalk bestaat uit meerdere onderdelen van links naar rechts:
 
-1. Hamburgermenu: Onder de knop ![](images/hamburger.png) vinden we extra opties en instellingen.
-2. Selecteren: Wanneer de blauwe pijl ![](images/pijl.png) actief is kunnen objecten in de kaart geselecteerd worden.
-3. Tekenen: Met het vierkant ![](images/tekenen.png) kunnen objecten worden getekend, met de ster ![](images/ster.png) kunnen symbolen worden geplaatst.
-4. Bewerkmenu: ![](images/bewerken.png) Met deze functie kunnen symbolen en objecten gekopieerd, geknipt en geplakt worden, undo- en redo-functie.
-5. Geavanceerde functies: Hier kunnen ![](images/scenarios.png) [scenario’s](geavanceerd_scenarios.md), ![](images/logging.png) [logging](geavanceerd_logging.md) en ![](images/analyse.png) [analyses](geavanceerd_analyses.md) worden ingesteld.
-5. Zoeken: Met deze functie ![](images/zoeken.png) is het mogelijk om op locaties en markeringen te zoeken zoals adres, coördinaten, buurten, postcodes, hectometerbordjes en raaipalen. 
-6. ![](images/activiteit_naam.png) Informatie over de naam van de activiteit en het laatste moment waarop er gepubliceerd is.
+1. Hamburgermenu: Onder de knop ![Knop, hamburger](images/hamburger.png) vinden we extra opties en instellingen.
+2. Selecteren: Wanneer de blauwe pijl ![Knop, selecteren](images/pijl.png) actief is kunnen objecten in de kaart geselecteerd worden.
+3. Tekenen: Met het vierkant ![Knop, tekenen](images/tekenen.png) kunnen objecten worden getekend, met de ster ![](images/ster.png) kunnen symbolen worden geplaatst.
+4. Bewerkmenu: ![Menu, bewerken](images/bewerken.png) Met deze functie kunnen symbolen en objecten gekopieerd, geknipt en geplakt worden, undo- en redo-functie.
+5. Geavanceerde functies: Hier kunnen ![Knop, scenarios](images/scenarios.png) [scenario’s](geavanceerd_scenarios.md), ![Knop, logging](images/logging.png) [logging](geavanceerd_logging.md) en ![Knop, analyse](images/analyse.png) [analyses](geavanceerd_analyses.md) worden ingesteld.
+5. Zoeken: Met deze functie ![Knop, zoeken](images/zoeken.png) is het mogelijk om op locaties en markeringen te zoeken zoals adres, coördinaten, buurten, postcodes, hectometerbordjes en raaipalen. 
+6. ![Tekst, activiteit](images/activiteit_naam.png) Informatie over de naam van de activiteit en het laatste moment waarop er gepubliceerd is.
 7. Met _Tekenen_ en _Situatiebeeld instellen_ kan er tussen ‘Tekenen’ en ‘Situatiebeeld instellen’ gewisseld worden. Met een blauwe balk onder een van beide opties is zichtbaar welke functie actief is.
-8. Logo: Onder het logo ![](images/klein_logo.png) vinden we inloginformatie en de mogelijkheid om uit te loggen.
+8. Logo: Onder het logo ![LCMS Logo](images/klein_logo.png) vinden we inloginformatie en de mogelijkheid om uit te loggen.
  
 ## 3.1 Hamburgermenu
 
 Het hamburgermenu biedt extra functies binnen plot. De onderdelen worden kort benoemd.
 
-![](images/hamburgermenu_uitgeklapt.png)
+![Hamburger menu uitgeklapt](images/hamburgermenu_uitgeklapt.png)
  
 - **Terug naar LCMS Tekst** Met deze knop wordt geschakeld naar LCMS tekst. Hiermee wordt LCMS plot wordt afgesloten. De knop verdwijnt als je LCMS tekst afsluit. 
 - **Wijzigingen opslaan**  Met de knop ‘Wijzigingen opslaan’ kunnen de wijzigingen in de 
@@ -44,13 +44,13 @@ tekening opgeslagen worden. _**N.B.:** Een eerder gepubliceerde tekenlaag, wordt
  
 ## 3.2 Tekenen 
 
-De tekentool ![](images/tekenen.png) bevat een menu. 
+De tekentool ![Knop, tekenen](images/tekenen.png) bevat een menu. 
  
-![](images/menu-tekenen.png)
+![Menu, tekenen](images/menu-tekenen.png)
 
 De optie _Meer_ bevat ook weer een menu.
 
-![](images/menu-tekenen-meer.png)
+![Menu, Tekenen, Meer](images/menu-tekenen-meer.png)
 
 Bij een aantal opties in het menu wordt een letter getoond. Dit is een zogenaamde _sneltoets_. Door op een willekeurig moment tijdens het gebruik van plot een aan een sneltoetst gekoppelde letter op het toetsenbord in te drukken (mits er op dat moment geen tekstvak wordt gevuld) kan met de sneltoets direct een teken-actie worden gestart. _De sneltoets is **niet** hoofdletter gevoelig_. In de volgende paragrafen wordt uitgelegd hoe deze tools functioneren. 
  
@@ -59,17 +59,17 @@ Bij een aantal opties in het menu wordt een letter getoond. Dit is een zogenaamd
 
 In het eerste menu dat openklapt bij de optie _Tekenen_ bevinden zich label, lijn, cirkel, ellipse en rechthoek.
 
-![](images/menu-tekenen.png)
+![Menu tekenen](images/menu-tekenen.png)
 
 Labels, lijnen, cirkels, ellipsen of rechthoeken kunnen geplaatst of getekend worden door in het menu op het betreﬀende menu-item te klikken of door gebruik te maken van sneltoetsen. Met de _escape_ toest wordt tekenen altijd afgesloten.
 
 Wanneer een object is getekend en de tekenactie correct is afgesloten, dan verschijnt het object als _geselecteerd_ op de kaart, te herkennen aan een dunnen stippellijn.
 
-![](images/object-actief.png)
+![Geselecteerd object](images/object-actief.png)
 
 Wanneer een tekenactie wordt afgesloten opent aan de rechterzijd van het scherm altijd het _eigenschappen_ venster. In dit venster kunnen een aantal eigenschappen van het getekende object worden ingesteld of gewijzigd.
 
-![](images/eigenschappen-venster.png)
+![Eigenschappen venster](images/eigenschappen-venster.png)
 
 In het eigenschappen venster zijn de volgende opties beschikbaar:
 
@@ -83,19 +83,19 @@ In het eigenschappen venster zijn de volgende opties beschikbaar:
 
 > Als er vervolgens op de kaart getekend wordt, dan wordt het object weergegeven in een standaard opmaak uit de stamkaart. Bij _Labels_ is deze mogelijkheid **niet** aanwezig. 
 
-![](images/stamkaart-stijlen.png)
+![Stamkaart stijlen](images/stamkaart-stijlen.png)
 
 **Vulling en lijn**: Bij ieder object zijn er eigenschappen waar een kleur kan gekozen worden. Door op de kleur te klikken, verschijnt er dan een kleurenkiezer. 
 
 > Uit de kleurenkiezer kan een kleur worden gekozen of er kan handmatig een kleur worden ingevoerd in de formaten `rgb(255, 99, 71)` of `#ff6347`. Let hierbij op de spaties, de kleurenkiezer zal aangeven of een handmatige kleur wel of niet geldig is.
 
-![](images/kleurenkiezer.png)
+![Kleurenkiezer](images/kleurenkiezer.png)
 
 > Naast de gekozen kleur kan ook de transparantie worden ingesteld en bij lijnen kan ook een lijndikte worden meegegeven.
 
 **Rotatie**: De tekenobjecten kunnen gedraaid/geroteerd worden.
 
-![](images/rotatie.png)
+![Rotatie](images/rotatie.png)
  
 > Bij verschillende objecten kan het eigenschappen venster meer of minder mogelijke instellingen hebben. Ze hebben bijvoorbeeld cirkel, sectormal, vuurhaard en foto geen _rotatie_ optie en hebben gasmal en vuurhaard een (wind)richting die er voor zorgt dat het object wordt gedraaid. Een label kan rond zijn positie roteren. De cirkel en sectormal zijn ronde objecten, hiervoor is rotatie overbodig.
 

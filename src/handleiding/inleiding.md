@@ -31,4 +31,4 @@ bovenstaande scherm:
 De volgende geavanceerde functionaliteiten zijn niet weergeven op bovenstaand schermafdruk. Deze functionaliteiten zijn niet direct te zien wanneer een plot gebruiker plot opent. Echter worden ze wel omschreven.
 
 - [Meet- en rijopdrachten](geavanceerd_rijopdrachten.md) 
-- Import en export van kaartlagen (met uitzondering van opensimpletopo omdat die wordt behandeld in bij kaart met tools).
+- [Import en export van kaartlagen](geavanceerd_kaartlagen.md) (met uitzondering van opensimpletopo omdat die wordt behandeld in bij [kaart met tools](kaart_met_tools.md)).

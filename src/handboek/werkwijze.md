@@ -1,6 +1,4 @@
----
-title: 2.1 Samen sterk!
----
+# 2. Werkwijze voor het delen van geo-informatie
 
 ## 2.1 Samen sterk!
 
@@ -56,5 +54,39 @@ Naast het laten stromen van informatie zijn er inhoudelijk deskundigen die een *
 kan worden in een vlak. Het is belangrijk dat die inhoudelijke analyses worden gedaan door functionarissen die inhoudelijke kennis en expertise hebben. De uitkomsten van de analyse moeten worden vertaald naar een geografisch beeld wat door de AGS zelf of door een geo-informatie medewerker ingevoerd kan worden. Op basis van dit vlak kan er vervolgens een analyse worden gemaakt welke kwetsbare objecten er zich onder dit vlak bevinden. Deze vorm van analyse maakt het werken met geografische informatie krachtig en voor de crisisbeheersing een cruciale tool.
 
 Binnen de veiligheidsregio’s worden al **Geografische Informatie Systemen (GIS)** gebruikt. Via een open standaard zoals benoemd in de VERA 2.0[^5] is het mogelijk om de dynamische geo-informatie in te lezen in de GIS applicaties en op basis daarvan nadere analyses te maken. Hiermee is er een aansluiting gemaakt op de bestaande geografische informatie systemen en de dynamische informatie die tijdens de crisis wordt aangemaakt.
+
+## 2.2 Opbouw geografisch beeld
+
+Een goede ordening van het situatiebeeld is bepalend voor de leesbaarheid. Geografische beelden hebben het voordeel dat ze naar hun aard al goed toegankelijk zijn. Door daarnaast de relevante onderwerpen te kiezen en deze uit te lichten in de vorm van (multidisciplinaire) thema’s kan bovendien de aandacht gevestigd worden op deze onderwerpen. De keuze van deze thema’s wordt bepaald – in nauwe afstemming tussen  informatiemanagement en leiding & coördinatie - en geeft sturing.
+
+Het geografisch beeld ontwikkelt zich in de tijd. Er kan sprake zijn van preparatieve data (zoals
+van een evenement of een BRZO-locatie). Meestal hebben we te maken met een flitsincident
+en wordt het geografisch beeld gestart met incidentgegevens. Later worden daar relevante
+datalagen aan toegevoegd voor verdere analyse.
+De meldkamer begint met een basisplot, dat o.a. bestaat uit de incidentlocatie, meteo, startmal
+en waar van toepassing, een klachtenplot of zoneringen uit planvorming.
+Het CoPI vult het geografisch beeld verder aan met de plaats van het CoPI, kwetsbare of
+risicovolle objecten, zoneringen, logistiek of themaspecifieke informatie. Als er sprake is van
+GRIP-2, is een weergave van de taakverdeling tussen CoPI en ROT ook wenselijk.
+Het ROT voegt informatie toe over effecten, scenario’s, opvanglocaties, circulatieplan en bekijkt
+of er meer risicovolle of kwetsbare objecten zijn rond het incident.
+Het is mogelijk dat het Rijk (NCC – LOCC – departementen) aanvullende informatie delen over
+scenario’s, zoneringen, opvang of distributie.
+
+## 2.3 Regie
+
+### Hoe vullen we de regie over het beeld in?
+Er is gekozen om de kaartlagen aan te laten sluiten bij de thema’s die van toepassing zijn bij de verschillende multidisciplinaire gremia. Het voordeel van vooraf gedefinieerde thema’s is: **uniformiteit** tussen regio’s en een landelijke werkwijze. Echter kan er bij ieder incident
+specifieke thema’s voorkomen die niet in figuur drie staan genoemd. Het werken met thema’s is op hoofdlijnen generiek, maar blijft maatwerk.
+
+### Hoe hangt deze regie samen met de regie over het tekstbeeld?
+De geo-informatie medewerker (mono of multi) dient zelf actief op zoek te gaan naar informatie in LCMS-tekst. Daarbij ondersteunt de geo-informatie medewerker met het weergeven van geografische informatie waarmee de kolommen zelf hun eigen informatieproducten kunnen opstellen. Het resultaat van deze producten zullen uiteindelijk ook geo-componenten bevatten die getoond worden in LCMS-Plot. Dit betekent dat er ook
+een wisselwerking ontstaat tussen het getoonde beeld en LCMS-tekst.
+Een belangrijk onderdeel hiervan is de koppeling te maken tussen de tekst en de invoer van achtergrondinformatie bij symbolen/vlakken. Bijvoorbeeld wanneer een incident locatie wordt ingevoerd, zonder daarbij het adres te vermelden in de achtergrondinformatie, die juist wel is weergegeven in LCMS-tekst. De geo-informatie medewerker heeft hierbij een belangrijke
+**brugfunctie** tussen tekst en geo.
+
+In de bijlage zijn de functieprofielen van de [geo-informatie medewerker CoPI](./3._Operationele_bijlagen/3_1_functieprofielen_van_de_geo_informatie_medewerker_copi.md) en [geo-informatie medewerker ROT](./3._Operationele_bijlagen/3_2_geo_informatie_medewerker_rot.md) opgenomen. Bij gebrek aan een landelijk vastgesteld
+kwalificatie dossier voor de geo-informatie medewerker is uitgegaan van de opleiding voor
+geo-informatie medewerker (GIM) die wordt gegeven door het NIPV.
 
 [^5]: [http://www.infopuntveiligheid.nl/wiki/vera/Paginas/Introductie.aspx](http://www.infopuntveiligheid.nl/wiki/vera/Paginas/Introductie.aspx)

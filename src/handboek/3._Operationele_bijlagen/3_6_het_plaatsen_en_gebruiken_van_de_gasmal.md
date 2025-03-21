@@ -1,8 +1,4 @@
----
-title: 3.6 Het plaatsen en gebruiken van de Gasmal
----
-
-## 3.6 Het plaatsen en gebruiken van de Gasmal
+# 3.6 Het plaatsen en gebruiken van de Gasmal
 
 ### Doel
 Deze instructie is bedoeld om de informatieoverdracht van MPL die voor het multidisciplinair

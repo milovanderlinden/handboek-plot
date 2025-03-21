@@ -1,8 +1,4 @@
----
-title: 3.2 Functieprofiel van de GeoInformatie medewerker ROT
----
-
-## 3.2 Functieprofiel van de GeoInformatie medewerker ROT
+# 3.2 Functieprofiel van de GeoInformatie medewerker ROT
 _(Tevens regie voerende GeoInformatie medewerker)_
 
 

@@ -1,8 +1,4 @@
----
-title: 3.4 Verschillende soorten kaartlagen
----
-
-## 3.4 Verschillende soorten kaartlagen
+# 3.4 Verschillende soorten kaartlagen
 
 Binnen LCMS-Plot kunnen diverse soorten type kaarten worden gebruikt voor het visualiseren van de plot. De informatie die beschikbaar komt in LCMS en via de landelijke geoserver is zeer dynamisch. Voor een volledig overzicht wordt verwezen naar de website van de _"Geo4OOV geoserver"_ [http://www.geo4oov.nl](http://www.geo4oov.nl), _"Publieke dienstverlening op de kaart"_ [(pdok)](https://www.pdok.nl/), of rechtstreeks bij de bron (waar het kan of mag). 
 

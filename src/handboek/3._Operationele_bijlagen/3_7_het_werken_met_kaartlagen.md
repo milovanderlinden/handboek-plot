@@ -1,8 +1,4 @@
----
-title: 3.7 Het werken met kaartlagen
----
-
-## 3.7 Het werken met kaartlagen
+# 3.7 Het werken met kaartlagen
 
 Door informatie te labelen aan vast gedefinieerde thematische lagen, ontstaat er
 gelaagdheid in de aangeboden informatie. Filtering van deze informatie maakt het mogelijk
