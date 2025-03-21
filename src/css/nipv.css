@@ -130,3 +130,12 @@ img:not(.wy-table-responsive table img) {
 .wy-table-responsive table td > img {
   max-width: 36px;
 }
+
+blockquote {
+  border-left: 4px solid #ccc;
+  padding: 1em;
+}
+blockquote p {
+  color: #666;
+  font-style: italic;
+}

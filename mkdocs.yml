@@ -2,6 +2,7 @@ site_name: LCMS Documentatie
 docs_dir: src
 markdown_extensions:
   - footnotes
+  - attr_list
 extra_css:
   - css/nipv.css
 

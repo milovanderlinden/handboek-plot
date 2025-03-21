@@ -5,104 +5,102 @@ title: 3. Menubalk
 
 # 3. Menubalk 
 
-De menubalk bestrijkt de gehele bovenkant van het scherm. Bij erg smalle schermen kan een deel van de opties onzichtbaar zijn. De menubalk bestaat uit meerdere onderdelen van links naar rechts:
+De menubalk bestrijkt de gehele bovenkant van het scherm.
 
-![](images/lcms-plot-handleiding-15_2.png)
+![](images/menubalk.png)
 
-1. Hamburgermenu: extra opties en instellingen. 
-2. Tekenen: met het vierkant kunnen objecten worden getekend, met de ster kunnen symbolen worden geplaatst. 
-3. Bewerkmenu: Met deze functie kunnen symbolen en objecten gekopieerd, geknipt en geplakt worden, undo- en redo-functie. 
-4. Zoeken: met deze functie is het mogelijk om op locaties en markeringen te zoeken zoals adres, coördinaten, buurten, postcodes, hectometerbordjes en raaipalen. 
-5. Informatie over de naam van de activiteit en het laatste moment waarop er gepubliceerd is.
-6. Tekenen: met deze functie kan er tussen ‘Tekenen’ en ‘Situatiebeeld instellen’ gewisseld worden. 
-7. Inloginformatie: Hier wordt de inloginformatie weergegeven en hier is de mogelijkheid om uit te loggen.
+Bij erg smalle schermen zal een deel van de opties onzichtbaar zijn.
+
+![](images/menubalk_klein.png)
+
+De menubalk bestaat uit meerdere onderdelen van links naar rechts:
+
+1. Hamburgermenu: Onder de knop ![](images/hamburger.png) vinden we extra opties en instellingen.
+2. Selecteren: Wanneer de blauwe pijl ![](images/pijl.png) actief is kunnen objecten in de kaart geselecteerd worden.
+3. Tekenen: Met het vierkant ![](images/tekenen.png) kunnen objecten worden getekend, met de ster ![](images/ster.png) kunnen symbolen worden geplaatst.
+4. Bewerkmenu: ![](images/bewerken.png) Met deze functie kunnen symbolen en objecten gekopieerd, geknipt en geplakt worden, undo- en redo-functie.
+5. Geavanceerde functies: Hier kunnen ![](images/scenarios.png) [scenario’s](geavanceerd_scenarios.md), ![](images/logging.png) [logging](geavanceerd_logging.md) en ![](images/analyse.png) [analyses](geavanceerd_analyses.md) worden ingesteld.
+5. Zoeken: Met deze functie ![](images/zoeken.png) is het mogelijk om op locaties en markeringen te zoeken zoals adres, coördinaten, buurten, postcodes, hectometerbordjes en raaipalen. 
+6. ![](images/activiteit_naam.png) Informatie over de naam van de activiteit en het laatste moment waarop er gepubliceerd is.
+7. Met _Tekenen_ en _Situatiebeeld instellen_ kan er tussen ‘Tekenen’ en ‘Situatiebeeld instellen’ gewisseld worden. Met een blauwe balk onder een van beide opties is zichtbaar welke functie actief is.
+8. Logo: Onder het logo ![](images/klein_logo.png) vinden we inloginformatie en de mogelijkheid om uit te loggen.
  
-De geavanceerde functies, in het zwarte kader, zijn rij- en meetopdrachten, scenario’s, logging en analyse. Deze functies worden in **hoofdstuk 6 t/m 10** beschreven.
- 
-## 3.1 Hamburgermenu met algemene zaken 
+## 3.1 Hamburgermenu
 
 Het hamburgermenu biedt extra functies binnen plot. De onderdelen worden kort benoemd.
 
-![](images/lcms-plot-handleiding-16_2.png)
+![](images/hamburgermenu_uitgeklapt.png)
  
-**Terug naar LCMS Tekst** Met deze knop wordt geschakeld naar LCMS tekst. Hiermee wordt LCMS plot wordt afgesloten. De knop verdwijnt als je LCMS tekst afsluit. 
- 
-**Wijzigingen opslaan**  Met de knop ‘Wijzigingen opslaan’ kunnen de wijzigingen in de 
+- **Terug naar LCMS Tekst** Met deze knop wordt geschakeld naar LCMS tekst. Hiermee wordt LCMS plot wordt afgesloten. De knop verdwijnt als je LCMS tekst afsluit. 
+- **Wijzigingen opslaan**  Met de knop ‘Wijzigingen opslaan’ kunnen de wijzigingen in de 
 tekening opgeslagen worden. _**N.B.:** Een eerder gepubliceerde tekenlaag, wordt opnieuw gepubliceerd met de wijziging. Een niet gepubliceerde tekenlaag wordt opgeslagen. Dan is deze laag alleen zichtbaar voor gebruikers met schrijfrechten._
+- **Activiteit openen** Via een dialoogvenster kan een andere activiteit geopend waarvoor de gebruiker toegang heeft.
+- **Activiteit koppelen** Een tekening van een andere activiteit kan gekoppeld worden aan de huidige activiteit via een dialoogvenster. Op basis van de rechten van de gebruiker ziet men de te koppelen activiteiten. 
+- **Printen** De printen knop biedt de mogelijkheid om na instellen, een print te maken van de kaart en op te slaan als pdf. Het huidige zoom niveau binnen plot wordt in de print overgenomen. 
+- **Tekenen, Situatiebeeld instellen, Scenario's, Logging en Analyse** dit zijn de opties die ook al in de menubalk aanwezig zijn, deze bevinden zich ook onder dit hamburgermenu zodat ze op kleine schermen ook beschikbaar zijn. 
+- **Handleiding** Door op deze optie te klikken zal deze handleiding openen.
+- **Applicatie verversen** Met de knop applicatie verversen (net zoals snelkoppeling F5). De gebruiker kan hier: een andere domein en proﬁel te kiezen en de nieuwste versie van plot ophalen.
+- **Over** Met de knop “over”. Hier worden de technische details van de applicatie opgevraagd, zoals het versienummer. De informatie die getoond wordt is met name handig voor ontwikkelaars en het vermelden waard bij het rapporteren van fouten.
  
-**Activiteit openen** Via een dialoogvenster kan een andere activiteit geopend waarvoor de gebruiker toegang heeft.
- 
-**Activiteit koppelen** 
-Een tekening van een andere activiteit kan gekoppeld worden aan de huidige activiteit via 
-een dialoogvenster. Op basis van de rechten van de gebruiker ziet men de te koppelen 
-activiteiten. 
- 
-**Printen** 
-De printen knop biedt de mogelijkheid om na instellen, een print te maken van de kaart en 
-op te slaan als pdf. Het huidige zoom niveau binnen plot wordt in de print overgenomen. 
- 
-**Applicatie verversen** 
-Met de knop applicatie verversen (net zoals snelkoppeling F5). De gebruiker kan hier: een 
-andere domein en proﬁel te kiezen en de nieuwste versie van plot ophalen.
- 
-**Over** Met de knop “over”. Hier worden de technische details van de applicatie opgevraagd, zoals het versienummer. De informatie die getoond wordt is met name handig voor ontwikkelaars en het vermelden waard bij het rapporteren van fouten. 
- 
-Na het selecteren van een activiteit verschijnt de gekoppelde tekening in het overzicht van tekenlagen. Deze gekoppelde tekening is te herkennen aan een icoon van een ketting voor de naam van de gekoppelde tekenlaag. Wijzigingen aan een gekoppelde tekening worden automatisch weergegeven.
-
-![](images/lcms-plot-handleiding-16_3.png)
- 
-In een gekoppelde tekenlaag kan niet getekend worden en bevat alle tekenlagen van de gekoppelde activiteit. 
-
 ## 3.2 Tekenen 
 
-De tekentools worden vanaf de menubalk aangezet. Er zijn drie tekeniconen, waarvan één een submenu heeft, van links naar rechts: 
-
+De tekentool ![](images/tekenen.png) bevat een menu. 
  
-![](images/lcms-plot-handleiding-17_2.jpg)
+![](images/menu-tekenen.png)
 
-1. De **selectiepijl** links heeft als functie het getekende object te (de)selecteren en bewerken. Sneltoets: esc. 
-2. Het **vierkant** met uitklappijl bevat een menu om allerlei soorten tekenobjecten te maken. 
-3. Het activiteitensymbool (**ster**) dient om een activiteit op de kaart te zetten (en na selectie ook andere symbolen). 
+De optie _Meer_ bevat ook weer een menu.
+
+![](images/menu-tekenen-meer.png)
+
+Bij een aantal opties in het menu wordt een letter getoond. Dit is een zogenaamde _sneltoets_. Door op een willekeurig moment tijdens het gebruik van plot een aan een sneltoetst gekoppelde letter op het toetsenbord in te drukken (mits er op dat moment geen tekstvak wordt gevuld) kan met de sneltoets direct een teken-actie worden gestart. _De sneltoets is **niet** hoofdletter gevoelig_. In de volgende paragrafen wordt uitgelegd hoe deze tools functioneren. 
  
-In de volgende paragrafen wordt uitgelegd hoe deze tools functioneren. 
  
+### 3.2.1 Label, lijn, cirkel, ellipse en rechthoek
+
+In het eerste menu dat openklapt bij de optie _Tekenen_ bevinden zich label, lijn, cirkel, ellipse en rechthoek.
+
+![](images/menu-tekenen.png)
+
+Labels, lijnen, cirkels, ellipsen of rechthoeken kunnen geplaatst of getekend worden door in het menu op het betreﬀende menu-item te klikken of door gebruik te maken van sneltoetsen. Met de _escape_ toest wordt tekenen altijd afgesloten.
+
+Wanneer een object is getekend en de tekenactie correct is afgesloten, dan verschijnt het object als _geselecteerd_ op de kaart, te herkennen aan een dunnen stippellijn.
+![](images/object-actief.png)
+
+Wanneer een tekenactie wordt afgesloten opent aan de rechterzijd van het scherm altijd het _eigenschappen_ venster. In dit venster kunnen een aantal eigenschappen van het getekende object worden ingesteld of gewijzigd.
+
+![](images/eigenschappen-venster.png){.moo }
+
+In het eigenschappen venster zijn de volgende opties beschikbaar:
+
+**Object naam**: wordt gebruikt om het object te herkennen tussen de objecten en legenda. 
+
+**Zichtbaar in Legenda**: Bepaalt of dit object in de legenda wordt opgenomen. 
+
+> Bij veel objecten van het zelfde type kan het handig zijn deze niet op te nemen in de legenda. Staat standaard aan. 
+
+**Stamkaart**: Het is mogelijk om een stijl uit de stamkaart te kiezen. 
+
+> Als er vervolgens op de kaart getekend wordt, dan wordt het object weergegeven in een standaard opmaak uit de stamkaart. Bij _Labels_ is deze mogelijkheid **niet** aanwezig. 
+
+![](images/stamkaart-stijlen.png)
+
+**Vulling en lijn**: Bij ieder object zijn er eigenschappen waar een kleur kan gekozen worden. Door op de kleur te klikken, verschijnt er dan een kleurenkiezer. 
+
+> Uit de kleurenkiezer kan een kleur worden gekozen of er kan handmatig een kleur worden ingevoerd in de formaten `rgb(255, 99, 71)` of `#ff6347`. Let hierbij op de spaties, de kleurenkiezer zal aangeven of een handmatige kleur wel of niet geldig is.
+
+![](images/kleurenkiezer.png)
+
+> Naast de gekozen kleur kan ook de transparantie worden ingesteld en bij lijnen kan ook een lijndikte worden meegegeven.
+
+**Rotatie**: De tekenobjecten kunnen gedraaid/geroteerd worden.
+
+![](images/rotatie.png)
  
-### 3.2.1 Eenvoudige objecten: Label, lijn, cirkel, ellips en rechthoek
+> Bij verschillende objecten kan het eigenschappen venster meer of minder mogelijke instellingen hebben. Ze hebben bijvoorbeeld cirkel, sectormal, vuurhaard en foto geen _rotatie_ optie en hebben gasmal en vuurhaard een (wind)richting die er voor zorgt dat het object wordt gedraaid. Een label kan rond zijn positie roteren. De cirkel en sectormal zijn ronde objecten, hiervoor is rotatie overbodig.
 
-Veel eigenschappen bij het tekenen gelden voor de objecten label, lijn, cirkel, ellips en rechthoek. In deze paragraaf worden ze benoemd.
+**Beschrijving**: Bij een object is het ook mogelijk om een beschrijvingen mee te geven. Deze informatie is enkel voor de gebruikers van LCMS plot zichtbaar en wordt niet zichtbaar op het kaartbeeld.
 
-![](images/lcms-plot-handleiding-17_3.png)
-
-Deze eenvoudige objecten kunnen getekend worden door in het menu op het betreﬀende menu-item te klikken of door gebruik te maken van sneltoetsen (zie tekenmenu). Met de sneltoets escape wordt het tekenen afgesloten.
-
-_Eigenschappen van object:_ 
- 
-Standaard zijn dit: 
-
-![](images/lcms-plot-handleiding-18_4.jpg)
-
-1. **Object naam**: wordt gebruikt om het object te herkennen tussen de objecten en legenda. 
-2. **Zichtbaar in Legenda**: Bepaalt of dit object in de legenda wordt opgenomen. Bij veel objecten van het zelfde type kan het handig zijn deze niet op te nemen in de legenda. Staat standaard aan. 
-3. **Stamkaart**: Het is mogelijk om daarbij standaard opmaak te hanteren. Als er vervolgens op de kaart getekend wordt, dan wordt het object weergegeven zoals de stamkaart. Bij Labels is geen Stamkaart aanwezig. 
-
-![](images/lcms-plot-handleiding-18_2.png)
-
-4. **Kleuren**: Bij ieder object zijn er eigenschappen waar een kleur kan gekozen worden. Door op de kleur te klikken, verschijnt er dan een kleurenkiezer. Het witte vak met rode lijn staat voor een transparante weergave en onderin kan de kleurcode worden gekozen.
-5. **Rotatie van tekenvormen**: De tekenobjecten kunnen gedraaid/geroteerd worden. Onder de eigenschappen van het object staat de functionaliteit “Roteer object”:
-
-![](images/lcms-plot-handleiding-18_3.png)
- 
-De uitzonderingen zijn: cirkel, sectormal, vuurhaard en foto.
-
-![](images/lcms-plot-handleiding-19_3.png)
-
-Bij gasmal en vuurhaard hebben een (wind)richting en wordt met die functionaliteit het object gedraaid. Een label kan rond zijn Geo-punt roteren. De cirkel en sectormal zijn ronde symmetrische objecten en is een rotatiefunctie overbodig. 
-
-Bij een object is het ook mogelijk om een beschrijvingen aan een tekstvak toe te voegen. Deze informatie is enkel voor de gebruikers van LCMS plot zichtbaar. 
- 
- ![](images/lcms-plot-handleiding-19_4.png)
-
-### 3.2.2 Tekenen van complexe objecten: sectormal, vuurhaard, gasmal, spline, foto en raster
+### 3.2.2 Sectormal, Vuurhaard, Gasmal, Raster, Spline en Foto
 
 Deze complexe objecten kunnen getekend worden door op het vierkant te klikken en op het menu-item meer te klikken of door gebruik te maken van de sneltoetsen.
  
