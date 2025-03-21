@@ -64,11 +64,12 @@ In het eerste menu dat openklapt bij de optie _Tekenen_ bevinden zich label, lij
 Labels, lijnen, cirkels, ellipsen of rechthoeken kunnen geplaatst of getekend worden door in het menu op het betreﬀende menu-item te klikken of door gebruik te maken van sneltoetsen. Met de _escape_ toest wordt tekenen altijd afgesloten.
 
 Wanneer een object is getekend en de tekenactie correct is afgesloten, dan verschijnt het object als _geselecteerd_ op de kaart, te herkennen aan een dunnen stippellijn.
+
 ![](images/object-actief.png)
 
 Wanneer een tekenactie wordt afgesloten opent aan de rechterzijd van het scherm altijd het _eigenschappen_ venster. In dit venster kunnen een aantal eigenschappen van het getekende object worden ingesteld of gewijzigd.
 
-![](images/eigenschappen-venster.png){.moo }
+![](images/eigenschappen-venster.png)
 
 In het eigenschappen venster zijn de volgende opties beschikbaar:
 
