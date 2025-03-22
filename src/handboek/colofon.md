@@ -1,18 +1,16 @@
-NIPV locatie Arnhem
+---
+comments: true
+---
 
-Postbus 7010
+# Colofon
 
-6801 HA Arnhem
-
-Kemperbergerweg 783, Arnhem
-
-[https://nipv.nl/](https://nipv.nl/)
-
-info@nipv.nl
-
-088 274 74 00
-
-## Colofon
+NIPV locatie Arnhem<br>
+Postbus 7010<br>
+6801 HA Arnhem<br>
+Kemperbergerweg 783, Arnhem<br>
+[https://nipv.nl/](https://nipv.nl/)<br>
+[info@nipv.nl](mailto:info@nipv.nl)<br>
+[088 274 74 00](tel:0882747400)
 
 Dit handboek is vastgesteld door de regiegroep Netcentrisch Werken van het
 Veiligheidsberaad. Dit handboek is tot stand gekomen door een samenwerking tussen de

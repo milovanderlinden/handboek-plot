@@ -1,4 +1,8 @@
-## Inleiding
+---
+comments: true
+---
+
+# Inleiding
 
 Dit handboek plot is een onderdeel van het referentiekader netcentrische crisisbeheersing[^1].
 In het referentiekader netcentrische crisisbeheersing staat beschreven dat de verschillende

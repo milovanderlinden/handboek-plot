@@ -1,5 +1,6 @@
 ---
 weight: 8
+comments: true
 ---
 
 # 8. Geavanceerd: Analyses 

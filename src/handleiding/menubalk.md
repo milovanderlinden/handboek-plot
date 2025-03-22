@@ -1,6 +1,7 @@
 ---
 weight: 3
 title: 3. Menubalk
+comments: true
 ---
 
 # 3. Menubalk 

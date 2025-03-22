@@ -1,5 +1,6 @@
 ---
 weight: 9
+comments: true
 ---
 
 # 9. Geavanceerd: meet- en rijopdrachten

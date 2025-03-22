@@ -1,5 +1,6 @@
 ---
 weight: 7
+comments: true
 ---
 
 # 7. Geavanceerd: Logging 

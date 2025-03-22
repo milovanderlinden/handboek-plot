@@ -1,5 +1,6 @@
 ---
 weight: -3
+comments: true
 ---
 
 ![NIPV Logo](images/Logo-NIPV.jpg)

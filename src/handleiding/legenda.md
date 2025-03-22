@@ -1,6 +1,7 @@
 ---
 weight: 5
 title: 5. Legenda
+comments: true
 ---
 
 # 5. Legenda

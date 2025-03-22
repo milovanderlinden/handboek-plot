@@ -151,3 +151,14 @@ img {
   vertical-align: bottom;
   margin: 0 0.25em;
 }
+
+
+.emphasis {
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+.small {
+  font-size: 0.8em;
+  color: #666;
+}

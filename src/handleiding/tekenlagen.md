@@ -1,6 +1,7 @@
 ---
 title: 2. Tekenlagen, groepen, publiceren, datalagen
 weight: 2
+comments: true
 ---
 
 # 2. Tekenlagen, groepen, publiceren, datalagen

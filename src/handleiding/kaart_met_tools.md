@@ -1,6 +1,7 @@
 ---
 weight: 4
 title: 4. Kaart met tools
+comments: true
 ---
 
 # 4. Kaart met tools

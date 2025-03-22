@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 2. Werkwijze voor het delen van geo-informatie
 
 ## 2.1 Samen sterk!

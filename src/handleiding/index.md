@@ -1,5 +1,6 @@
 ---
 weight: -2
+comments: true
 ---
 
 # Handleiding LCMS Plot 

@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 1. Visie en doel van geo-informatie
 
 ## 1.1 Geografie

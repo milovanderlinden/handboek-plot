@@ -1,6 +1,7 @@
 ---
 title: 1. Inleiding
 weight: 1
+comments: true
 ---
 
 # 1. Inleiding

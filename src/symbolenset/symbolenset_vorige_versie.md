@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Symbolenset vorige versie
 
 In LCMS Plot wordt een symbolenset gebruikt. Als uitgangspunt wordt in deze bijlage de set van het informatiemodel openbare orde en veiligheid (IMOOV) genomen. Deze set komt grotendeels overeen met de symbolen set die in LCMS beschikbaar is. Het netwerk Netcentrisch Werken zal de definitieve set van symbolen vaststellen voor het LCMS plot. De

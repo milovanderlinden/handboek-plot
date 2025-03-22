@@ -1,5 +1,6 @@
 ---
 weight: 6
+comments: true
 ---
 
 # 6. Geavanceerd: Scenario’s

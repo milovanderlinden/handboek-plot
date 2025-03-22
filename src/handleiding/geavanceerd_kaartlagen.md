@@ -1,5 +1,6 @@
 ---
 weight: 10
+comments: true
 ---
 
 # 10. Geavanceerd: Import en export van kaartlagen 
