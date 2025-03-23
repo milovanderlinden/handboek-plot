@@ -10,7 +10,7 @@ theme:
   name: material
   logo: assets/logo.svg
   favicon: assets/lcms-logo_favicon.svg
-
+  language: nl
   custom_dir: overrides
   # Turn off Previous/Next navigation links in the navbar
   disable_nav_previous_next: true
@@ -22,6 +22,8 @@ theme:
   disable_footer: true
   # Turn off the default footer message, but display the page revision date if it's available
   disable_footer_except_revision: true
+  features:
+    - navigation.footer
 
 plugins:
   - search
