@@ -199,7 +199,7 @@ Nadat de foto is opgeslagen verschijnt een camera-icoon op de kaart geplaatst.
 
 In deze paragraaf wordt er uitleg gegeven over de **incidentlocatie** en andere symbolen die onder de ![](images/ster.png) **ster knop** beschikbaar zijn. Wanneer op de ster knop wordt gedrukt verschijnt in het rechterpaneel het _Symbolen_ venster.
 
-> **Let op:** controleer altijd of er voor symbolen wellicht lagen beschikbaar zijn op [Geo4OoV](https://kaart.geo4oov.nl/geo-beheer/app/catalogue/servers). In een vorige versie van de documentatie werd bijvoorbeeld aangegeven hoe een brandkraan kon worden getekend maar hiervoor is een laag beschikbaar te weten _"[Brandkranen-landelijk](https://kaart.geo4oov.nl/geo-beheer/app/catalogue/servers/server/45XPTGYUR6G1E4EBQX9YOJ63KXIIGW)"_
+> **Let op:** controleer altijd of er voor symbolen wellicht datalagen beschikbaar zijn op [Geo4OOV](https://kaart.geo4oov.nl/geo-beheer/app/catalogue/servers). In een vorige versie van de documentatie werd bijvoorbeeld aangegeven hoe een brandkraan kon worden getekend maar hiervoor is een datalaag beschikbaar te weten _"[Brandkranen-landelijk](https://kaart.geo4oov.nl/geo-beheer/app/catalogue/servers/server/45XPTGYUR6G1E4EBQX9YOJ63KXIIGW)"_
 
 ![](images/symbolen-venster.png)
 
