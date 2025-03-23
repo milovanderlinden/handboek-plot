@@ -30,7 +30,7 @@ Binnen het LCMS worden vanuit meerdere zuilen plots gemaakt. Voor iedere afzende
 |![](images/square-algemeen.svg)|**Algemeen** <br> #d5d5d5 |
 |![](images/square-politie.svg)|**Politie** <br> #182866 |
 |![](images/square-brandweer.svg)|**Brandweer** <br> #f60000 |
-|![](images/square-ambulance.svg)|**Ambulance** <br> #ffffff |
+|![](images/square-ambulance.svg)|**GHOR** <br> #ffffff |
 |![](images/square-kmar.svg)|**KMAR** <br> #009ee0 |
 |![](images/square-defensie.svg)|**Defensie** <br> #004535 |
 |![](images/square-gemeente.svg)|**Bevolkingszorg** <br> #e17000 |
@@ -47,7 +47,7 @@ Binnen de pointers kunnen iconen geplaatst worden om extra duiding te geven. De 
 
 Onderstaande incident pointers zijn gedefinieerd voor gebruik in LCMS.
 
-||Algemeen|Politie|Brandweer|Ambulance|KMAR|Defensie|Bevolkingszorg|Rijkswaterstaat|Waterschap|
+||Algemeen|Politie|Brandweer|GHOR|KMAR|Defensie|Bevolkingszorg|Rijkswaterstaat|Waterschap|
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Incident|![](images/symbols/algemeen/incidenten/incident.png)|
 |Alarm|![](images/symbols/algemeen/incidenten/alarm.png)|
