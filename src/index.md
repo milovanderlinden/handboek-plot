@@ -8,6 +8,8 @@ Dit is de vernieuwde documentatie voor LCMS Plot, de geografische component van 
 
 Deze documentatie wordt gebruikt voor de trainingen van Plot en dient als naslagwerk tijdens het gebruik van Plot. De documentatie wordt beheerd in GitHub en gepubliceerd met [MkDocs](https://www.mkdocs.org/). De **werkgroep Plot** is verantwoordelijk voor de inhoud van deze documentatie.
 
+> **Disclaimer:** Dit is de ontwikkelversie van de documentatie. Deze is nog niet volledig gereed voor gebruik en ook nog niet goedgekeurd door de werkgroep Plot.
+
 
 ## Inhoud
 
