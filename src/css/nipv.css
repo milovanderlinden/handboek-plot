@@ -186,3 +186,26 @@ img {
   border-radius: .1rem;
   height: 1.8rem;
 }
+
+#environment-bar.gui-DEF {
+  background-color: #f2982f;
+}
+#environment-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  height: 45px;
+  line-height: 25px;
+  padding:
+10px;
+  text-align: right;
+  z-index: 9999;
+  color: #131539;
+  background-image: repeating-linear-gradient(-45deg,transparent,transparent 35px,rgba(255,255,255,.2) 35px,rgba(255,255,255,.2) 70px);
+  background-size: 100px 100px;
+  background-position-x: 0%;
+}
+#environment-bar, .uppercase {
+  text-transform: uppercase;
+}
